@@ -9,10 +9,7 @@ class MotoresController extends Controller
 {
  public function index(){
    	$motores = Motor::all();
-
-
    	return view('motores.index', ['motores'=>$motores
-
    ]);
 
    }

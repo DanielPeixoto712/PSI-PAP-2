@@ -1,4 +1,4 @@
-@extends('layout')
+@extends ('layout')
 
 @section ('titulo')
 @endsection
@@ -7,6 +7,10 @@
 @endsection
 
 @section ('menu')
+
+
+
+
 <h4>Motores</h4>
           <a href="{{route('nissans.index')}}" class="list-group-item">Nissan</a>
           <a href="" class="list-group-item">BMW</a>
@@ -19,8 +23,13 @@
 
 
 
+          
+          	
+
 
 @endsection
+
+
 
 @section ('produtos')
  <div class="col-lg-9">
@@ -52,7 +61,36 @@
           </a>
         </div>
 
- 
+        <div class="row">
+
+         @foreach($nissans as $nissan)
+          <div class="col-lg-4 col-md-6 mb-4">
+            <div class="card h-100">
+              <a href="#"><img class="card-img-top" src="img/logo.png" alt=""></a>
+              <div class="card-body">
+                <h4 class="card-title">
+
+
+                  <a href="{{route('nissans.show', ['id'=>$nissan->id_nissan])}} "class="list-group-item"  >{{$nissan->motor}}</a>
+                </h4>
+                <h5>{{$nissan->preco}} €</h5>
+                <p class="card-text">{{$nissan->info}}</p>
+              </div>
+              <div class="card-footer">
+                <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
+              </div>
+            </div>
+          </div>
+@endforeach
+
+
+
+          
+
+          
+         
+
+         
 
 
           
@@ -67,7 +105,17 @@
     <!-- /.row -->
 
   </div>
+
 @endsection
 
 @section ('rodape')
 @endsection
+
+
+
+
+
+</ul>
+
+   
+

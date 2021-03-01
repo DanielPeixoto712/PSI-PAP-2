@@ -32,17 +32,13 @@ Route::get('/', [App\Http\Controllers\HomeController::class, 'index'])->name('ho
 //INDEX
 Route::post('index','App\Http\Controllers\IndexController@index')->name('index');
 
-//CATEGORIAS
-
-Route::get('/categorias', 'App\Http\Controllers\CategoriasController@index')->name('categorias.index');
-Route::get('/categorias/{id}/show', 'App\Http\Controllers\CategoriasController@show')->name('categorias.show');
-
-//PEÇAS
-
-Route::get('/pecas', 'App\Http\Controllers\PecasController@index')->name('pecas.index');
-Route::get('/pecas/{id}/show', 'App\Http\Controllers\PecasController@show')->name('pecas.show');
 
 //MOTORES
 
 Route::get('/motores', 'App\Http\Controllers\MotoresController@index')->name('motores.index');
 Route::get('/motores/{id}/show', 'App\Http\Controllers\MotoresController@show')->name('motores.show');
+
+
+//NISSAN
+Route::get('/nissans', 'App\Http\Controllers\NissansController@index')->name('nissans.index');
+Route::get('/nissans/{id}/show', 'App\Http\Controllers\NissansController@show')->name('nissans.show');

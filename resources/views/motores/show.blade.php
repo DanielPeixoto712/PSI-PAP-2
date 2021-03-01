@@ -29,6 +29,8 @@
           
           <a href="{{route('motores.show', ['id'=>$motor->id_motor])}} "class="list-group-item"  >
           	<br>{{$motor->marca}}  </a>
+
+
           
 
 
@@ -36,6 +38,7 @@
 @endsection
 
 @section ('produtos')
+
 @endsection
 
 @section ('rodape')

@@ -5,12 +5,14 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
-class Peca extends Model
+class Nissan extends Model
 {
     use HasFactory;
-    protected $primaryKey="id_peca";
-    protected $table="pecas";
+    protected $primaryKey="id_nissan";
+    protected $table="nissan";
 
     
    
-}
+    }
+   
+
