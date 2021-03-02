@@ -11,8 +11,10 @@ class Nissan extends Model
     protected $primaryKey="id_nissan";
     protected $table="nissan";
 
-    
-   
+   protected $fillable=[
+       'motor',
+       'preco',
+       'observacoes',
+       'info'
+   ];
     }
-   
-

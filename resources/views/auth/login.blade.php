@@ -1,13 +1,6 @@
 @extends('layouts.app')
 
 @section('content')
- <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
-  <!-- Custom styles for this template -->
-  <link href="css/shop-homepage.css" rel="stylesheet">
-  <script src="vendor/jquery/jquery.min.js"></script>
-  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
@@ -15,7 +8,7 @@
                 <div class="card-header">{{ __('Login') }}</div>
 
                 <div class="card-body">
-                    <form method="POST" action="{{ route('index') }}">
+                    <form method="POST" action="{{ route('login') }}">
                         @csrf
 
                         <div class="form-group row">

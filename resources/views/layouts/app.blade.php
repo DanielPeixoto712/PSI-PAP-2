@@ -17,6 +17,11 @@
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
 
     <!-- Styles -->
+
+    <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <script src="vendor/jquery/jquery.min.js" type="text/javascript"></script>
+    <script src="vendor/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
 </head>
 <body>

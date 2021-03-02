@@ -7,6 +7,7 @@
 @endsection
 
 @section ('menu')
+
 @endsection
 
 
@@ -40,12 +41,10 @@
             <span class="sr-only">Next</span>
           </a>
         </div>
-        <div align="center">
-        <a href="{{route('nissans.create')}}"><button type="button" class="btn btn-outline-primary">Criar</button></a>
-</div><br>
+
         <div class="row">
 
-         @foreach($nissans as $nissan)
+         @foreach($yellows as $yellow)
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="card h-100">
               <a href="#"><img class="card-img-top" src="img/logo.png" alt=""></a>
@@ -53,17 +52,16 @@
                 <h4 class="card-title">
 
 
-                  <a href="{{route('nissans.show', ['id'=>$nissan->id_nissan])}} "class="list-group-item"  >{{$nissan->motor}}</a>
+                  <a href="{{route('yellows.show', ['id'=>$yellow->id_yellow])}} "class="list-group-item"  >{{$yellow->suspenssao}}</a>
                 </h4>
-                <h5>{{$nissan->preco}} €</h5>
-                <p class="card-text">{{$nissan->info}}</p>
+                <h5>{{$yellow->preco}} €</h5>
+                <p class="card-text">{{$yellow->info}}</p>
               </div>
               <div class="card-footer">
                 <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
               </div>
             </div>
           </div>
-
 @endforeach
 
 

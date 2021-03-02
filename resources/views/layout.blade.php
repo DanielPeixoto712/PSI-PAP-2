@@ -3,10 +3,10 @@
 <html lang="en">
 
 <head>
-  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" rel="stylesheet">
-    <script src="js/jquery-3.5.1.min.js" type="text/javascript"></script>
-    <script src="js/bootstrap.min.js" type="text/javascript"></script>
-
+  <link rel="stylesheet" type="text/css" href="{{ URL::asset('vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
+    <script src="{{ URL::asset('vendor/jquery/jquery.min.js') }}" type="text/javascript"></script>
+    <script src="{{ URL::asset('vendor/bootstrap/js/bootstrap.min.js') }}" type="text/javascript"></script>
+    
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="description" content="">
@@ -46,14 +46,46 @@
           <li class="nav-item">
             <a class="nav-link" href="#">Contactos</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="{{route('home')}}">Iniciar Sessão</a>
-          </li>
+         
+
         </ul>
+          <ul class="navbar-nav ml-auto">
+                        <!-- Authentication Links -->
+                        @guest
+                            @if (Route::has('login'))
+                                <li class="nav-item">
+                                    <a class="nav-link" href="{{ route('login') }}">{{ __('Login') }}</a>
+                                </li>
+                            @endif
+                            
+                            @if (Route::has('register'))
+                                <li class="nav-item">
+                                    <a class="nav-link" href="{{ route('register') }}">{{ __('Register') }}</a>
+                                </li>
+                            @endif
+                        @else
+                            <li class="nav-item dropdown">
+                                <a id="navbarDropdown" class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" v-pre>
+                                    {{ Auth::user()->name }}
+                                </a>
+
+                                <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                                    <a class="dropdown-item" href="{{ route('logout') }}"
+                                       onclick="event.preventDefault();
+                                                     document.getElementById('logout-form').submit();">
+                                        {{ __('Logout') }}
+                                    </a>
+
+                                    <form id="logout-form" action="{{ route('logout') }}" method="POST" class="d-none">
+                                        @csrf
+                                    </form>
+                                </div>
+                            </li>
+                        @endguest
+                    </ul>
       </div>
     </div>
   </nav>
-
 
 
   <!-- Page Content -->
@@ -67,6 +99,22 @@
         <div class="list-group">
 
           @yield ('menu')
+           <h4>Motores</h4>
+                    <a href="{{route('nissans.index')}}" class="list-group-item">Nissan</a>
+                    <a href="{{route('bmws.index')}}" class="list-group-item">BMW</a>
+                    <a href="{{route('hondas.index')}}" class="list-group-item">Honda</a>
+
+          <h4>Suspensões</h4>
+          <a href="{{route('yellows.index')}}" class="list-group-item">Yellow Speed Racing</a>
+                    <a href="{{route('aps.index')}}" class="list-group-item">AP</a>
+                    
+
+      
+
+          <h4>Volantes</h4>
+          <a href="" class="list-group-item">OMP</a>
+                    <a href="" class="list-group-item">RR</a>
+                    <a href="#" class="list-group-item">TERE</a>
 
 
           

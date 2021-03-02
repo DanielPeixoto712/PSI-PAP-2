@@ -7,19 +7,7 @@
 @endsection
 
 @section ('menu')
-<h4>Motores</h4>
-          <a href="{{route('nissans.index')}}" class="list-group-item">Nissan</a>
-          <a href="" class="list-group-item">BMW</a>
-          <a href="#" class="list-group-item">Honda</a>
-
-<h4>Suspensões</h4>
-<a href="" class="list-group-item">Nissan</a>
-          <a href="" class="list-group-item">BMW</a>
-          <a href="#" class="list-group-item">Honda</a>
-
-
-
-
+          
 @endsection
 
 @section ('produtos')
