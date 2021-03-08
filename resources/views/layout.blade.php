@@ -146,7 +146,8 @@
   <button class="btn btn btn-outline-primary" type="button" data-toggle="dropdown">Backets
   <span class="caret"></span></button>
   <ul class="dropdown-menu">
-    <li>{{route('bomps.index')}}" class="list-group-item">Omp</a></li>
+    <a href="{{route('bomps.index')}}" class="list-group-item">OMP</a>
+    
   </ul>
 </div>
 </div>

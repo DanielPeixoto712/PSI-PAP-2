@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Models\Bomp;
 
-class BompmpsController extends Controller
+class BompsController extends Controller
 {
  public function index(){
        $bomp = Bomp::all();
