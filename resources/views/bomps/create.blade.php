@@ -12,9 +12,9 @@
 <br><br><br><br><br>
 @section ('produtos')
 
-<form action="{{route('omps.store')}}" method="post">
+<form action="{{route('bomps.store')}}" method="post">
 	@csrf
-	Volante:<input type="text" name="volante" value="{{old('volante')}}"><br>
+	Backet:<input type="text" name="volante" value="{{old('backet')}}"><br>
 	Preço::<input type="text" name="preco" value="{{old('preco')}}"><br>
 	Observações::<textarea name="observacoes">{{old('observacoes')}}</textarea><br>
 	Informação::<input type="text" name="info" value="{{old('info')}}"><br>

@@ -33,9 +33,11 @@ Route::get('/', [App\Http\Controllers\HomeController::class, 'index'])->name('ho
 Route::post('index','App\Http\Controllers\IndexController@index')->name('index');
 
 
+
 //MOTORES
 Route::get('/motores', 'App\Http\Controllers\MotoresController@index')->name('motores.index');
 Route::get('/motores/{id}/show', 'App\Http\Controllers\MotoresController@show')->name('motores.show');
+
 
 
 //NISSAN
@@ -44,6 +46,7 @@ Route::get('/nissans/{id}/show', 'App\Http\Controllers\NissansController@show')-
 //Create
 Route::get('/nissans/create', 'App\Http\Controllers\NissansController@create')->name('nissans.create');
 Route::post('/nissans', 'App\Http\Controllers\NissansController@store')->name('nissans.store');
+
 
 
 //BMW
@@ -64,13 +67,17 @@ Route::get('/hondas/create', 'App\Http\Controllers\HondasController@create')->na
 Route::post('/hondas', 'App\Http\Controllers\HondasController@store')->name('hondas.store');
 
 
+
 //YELLOW SPEED RACING
 Route::get('/yellows', 'App\Http\Controllers\YellowsController@index')->name('yellows.index');
 Route::get('/yellows/{id}/show', 'App\Http\Controllers\YellowsController@show')->name('yellows.show');
 
+
+
 //AP
 Route::get('/aps', 'App\Http\Controllers\ApsController@index')->name('aps.index');
 Route::get('/aps/{id}/show', 'App\Http\Controllers\ApsController@show')->name('aps.show');
+
 
 
 
@@ -80,3 +87,23 @@ Route::get('/omps/{id}/show', 'App\Http\Controllers\OmpsController@show')->name(
 //Create
 Route::get('/omps/create', 'App\Http\Controllers\OmpsController@create')->name('omps.create');
 Route::post('/omps', 'App\Http\Controllers\OmpsController@store')->name('omps.store');
+
+
+
+
+//SPARCO
+Route::get('/sparcos', 'App\Http\Controllers\SparcosController@index')->name('sparcos.index');
+Route::get('/sparcos/{id}/show', 'App\Http\Controllers\SparcosController@show')->name('sparcos.show');
+//Create
+Route::get('/sparcos/create', 'App\Http\Controllers\SparcosController@create')->name('sparcos.create');
+Route::post('/sparcos', 'App\Http\Controllers\SparcosController@store')->name('sparcos.store');
+
+
+
+
+//Bomps Bancos OMP
+Route::get('/bomps', 'App\Http\Controllers\BompsController@index')->name('bomps.index');
+Route::get('/bomps/{id}/show', 'App\Http\Controllers\BompsController@show')->name('bomps.show');
+//Create
+Route::get('/bomps/create', 'App\Http\Controllers\BompsController@create')->name('bomps.create');
+Route::post('/bomps', 'App\Http\Controllers\BompsController@store')->name('bomps.store');

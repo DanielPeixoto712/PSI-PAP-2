@@ -99,22 +99,82 @@
         <div class="list-group">
 
           @yield ('menu')
-           <h4>Motores</h4>
-                    <a href="{{route('nissans.index')}}" class="list-group-item">Nissan</a>
-                    <a href="{{route('bmws.index')}}" class="list-group-item">BMW</a>
-                    <a href="{{route('hondas.index')}}" class="list-group-item">Honda</a>
+          
 
-          <h4>Suspensões</h4>
-          <a href="{{route('yellows.index')}}" class="list-group-item">Yellow Speed Racing</a>
-                    <a href="{{route('aps.index')}}" class="list-group-item">AP</a>
+
+<!--Motores-->
+<div style="background-color:#E6E6E6" align="center">
+
+         <div class="dropdown">
+  <button class="btn btn btn-outline-primary" type="button" data-toggle="dropdown">Motores
+  <span class="caret"></span></button>
+  <ul class="dropdown-menu">
+    <li><a href="{{route('nissans.index')}}" class="list-group-item">Nissan</a></li>
+    <li><a href="{{route('bmws.index')}}" class="list-group-item">BMW</a></li>
+    <li><a href="{{route('hondas.index')}}" class="list-group-item">Honda</a></li>
+  </ul>
+</div>
+
+<!--suspenões-->
+<br>
+
+        <div class="dropdown">
+  <button class="btn btn btn-outline-primary" type="button" data-toggle="dropdown">Suspensões
+  <span class="caret"></span></button>
+  <ul class="dropdown-menu">
+    <li><a href="{{route('yellows.index')}}" class="list-group-item">Yellow Speed Racing</a></li>
+    <li><a href="{{route('aps.index')}}" class="list-group-item">AP</a></li>
+  </ul>
+</div>
+
+<br>
+<!--Volantes-->
+<div class="dropdown">
+  <button class="btn btn btn-outline-primary" type="button" data-toggle="dropdown">Volantes
+  <span class="caret"></span></button>
+  <ul class="dropdown-menu">
+    <li><a href="{{route('omps.index')}}" class="list-group-item">OMP</a></li>
+    <li><a href="{{route('sparcos.index')}}" class="list-group-item">Sparco</a></li>
+  </ul>
+</div>
+
+<br>
+
+
+<!--Backets-->
+<div class="dropdown">
+  <button class="btn btn btn-outline-primary" type="button" data-toggle="dropdown">Backets
+  <span class="caret"></span></button>
+  <ul class="dropdown-menu">
+    <li>{{route('bomps.index')}}" class="list-group-item">Omp</a></li>
+  </ul>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                     
-
-      
-
-          <h4>Volantes</h4>
-          <a href="{{route('omps.index')}}" class="list-group-item">OMP</a>
-                    <a href="" class="list-group-item">TT</a>
-                    <a href="#" class="list-group-item">TERE</a>
 
 
           

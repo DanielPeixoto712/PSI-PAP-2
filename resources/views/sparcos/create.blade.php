@@ -12,7 +12,7 @@
 <br><br><br><br><br>
 @section ('produtos')
 
-<form action="{{route('omps.store')}}" method="post">
+<form action="{{route('sparcos.store')}}" method="post">
 	@csrf
 	Volante:<input type="text" name="volante" value="{{old('volante')}}"><br>
 	Preço::<input type="text" name="preco" value="{{old('preco')}}"><br>
