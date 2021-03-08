@@ -1,4 +1,3 @@
-
 @extends ('layout')
 
 @section ('titulo')
@@ -8,6 +7,7 @@
 @endsection
 
 @section ('menu')
+
 @endsection
 
 
@@ -42,12 +42,17 @@
           </a>
         </div>
 
+
+        <div align="center">
+        <a href="{{route('omps.create')}}"><button type="button" class="btn btn-outline-primary">Criar</button></a>
+</div><br>
+
         <div class="row">
 
          @foreach($aps as $ap)
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="card h-100">
-              <a href="{{route('aps.show', ['id'=>$ap->id_ap])}} "class="list-group-item"  ><img class="card-img-top" src="img/logo.png" alt=""></a>
+              <a href="#"><img class="card-img-top" src="img/logo.png" alt=""></a>
               <div class="card-body">
                 <h4 class="card-title">
 
