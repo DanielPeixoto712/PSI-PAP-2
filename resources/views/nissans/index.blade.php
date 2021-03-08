@@ -40,6 +40,8 @@
             <span class="sr-only">Next</span>
           </a>
         </div>
+
+        
         <div align="center">
         <a href="{{route('nissans.create')}}"><button type="button" class="btn btn-outline-primary">Criar</button></a>
 </div><br>

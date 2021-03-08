@@ -20,4 +20,19 @@ class HondasController extends Controller
 	return view('hondas.show',  ['honda'=>$honda
 ]);
 }
+public function create(){
+    return view('hondas.create');
+}
+public function store(request $request){
+    $novoHonda=$request->validate ([
+        'motor'=>['required','min:2','max:100'],
+        'preco'=>['nullable','min:2'],
+        'observacoes'=>['nullable','min:2','max:200'],
+        'info'=>['nullable','min:2','max:200'],
+
+]);
+    $honda=Honda::create($novoHonda);
+    return redirect()->route('hondas.show',[
+        'id'=>$honda->id_honda]);
+}
 }

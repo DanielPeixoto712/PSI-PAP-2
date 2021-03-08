@@ -112,8 +112,8 @@
       
 
           <h4>Volantes</h4>
-          <a href="" class="list-group-item">OMP</a>
-                    <a href="" class="list-group-item">RR</a>
+          <a href="{{route('omps.index')}}" class="list-group-item">OMP</a>
+                    <a href="" class="list-group-item">TT</a>
                     <a href="#" class="list-group-item">TERE</a>
 
 

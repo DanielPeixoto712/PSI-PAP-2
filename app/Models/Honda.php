@@ -12,6 +12,13 @@ class Honda extends Model
     protected $table="honda";
 
     
+
+    protected $fillable=[
+       'motor',
+       'preco',
+       'observacoes',
+       'info'
+   ];
    
     }
    

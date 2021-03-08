@@ -40,14 +40,13 @@
             <span class="sr-only">Next</span>
           </a>
         </div>
-
         
         <div align="center">
-        <a href="{{route('bmws.create')}}"><button type="button" class="btn btn-outline-primary">Criar</button></a>
+        <a href="{{route('omps.create')}}"><button type="button" class="btn btn-outline-primary">Criar</button></a>
 </div><br>
         <div class="row">
 
-         @foreach($bmws as $bmw)
+         @foreach($omps as $omp)
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="card h-100">
               <a href="#"><img class="card-img-top" src="img/logo.png" alt=""></a>
@@ -55,10 +54,10 @@
                 <h4 class="card-title">
 
 
-                  <a href="{{route('bmws.show', ['id'=>$bmw->id_bmw])}} "class="list-group-item"  >{{$bmw->motor}}</a>
+                  <a href="{{route('omps.show', ['id'=>$omp->id_omp])}} "class="list-group-item"  >{{$omp->volante}}</a>
                 </h4>
-                <h5>{{$bmw->preco}} €</h5>
-                <p class="card-text">{{$bmw->info}}</p>
+                <h5>{{$omp->preco}} €</h5>
+                <p class="card-text">{{$omp->info}}</p>
               </div>
               <div class="card-footer">
                 <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>

@@ -20,4 +20,19 @@ class BmwsController extends Controller
 	return view('bmws.show',  ['bmw'=>$bmw
 ]);
 }
+public function create(){
+    return view('bmws.create');
+}
+public function store(request $request){
+    $novoBmw=$request->validate ([
+        'motor'=>['required','min:2','max:100'],
+        'preco'=>['nullable','min:2'],
+        'observacoes'=>['nullable','min:2','max:200'],
+        'info'=>['nullable','min:2','max:200'],
+
+]);
+    $bmw=Bmw::create($novoBmw);
+    return redirect()->route('bmws.show',[
+        'id'=>$bmw->id_bmw]);
+}
 }

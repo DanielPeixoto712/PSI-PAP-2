@@ -51,6 +51,12 @@
           </a>
         </div>
 
+
+
+        <div align="center">
+        <a href="{{route('hondas.create')}}"><button type="button" class="btn btn-outline-primary">Criar</button></a>
+        </div><br>
+
         <div class="row">
 
          @foreach($hondas as $honda)
