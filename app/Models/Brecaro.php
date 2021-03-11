@@ -5,14 +5,14 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
-class Bmw extends Model
+class Brecaro extends Model
 {
     use HasFactory;
-    protected $primaryKey="id_bmw";
-    protected $table="bmw";
+    protected $primaryKey="id_brecaro";
+    protected $table="brecaro";
 
    protected $fillable=[
-       'motor',
+       'backet',
        'preco',
        'observacoes',
        'info'

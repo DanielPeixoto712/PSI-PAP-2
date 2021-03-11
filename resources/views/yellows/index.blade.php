@@ -44,7 +44,7 @@
 
 
         <div align="center">
-        <a href="{{route('omps.create')}}"><button type="button" class="btn btn-outline-primary">Criar</button></a>
+        <a href="{{route('yellows.create')}}"><button type="button" class="btn btn-outline-primary">Criar</button></a>
 </div><br>
 
         <div class="row">

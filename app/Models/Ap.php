@@ -11,7 +11,12 @@ class Ap extends Model
     protected $primaryKey="id_ap";
     protected $table="ap";
 
-    
+    protected $fillable=[
+       'suspenssao',
+       'preco',
+       'observacoes',
+       'info'
+   ];
    
     }
    

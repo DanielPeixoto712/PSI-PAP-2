@@ -20,4 +20,19 @@ class ApsController extends Controller
 	return view('aps.show',  ['ap'=>$ap 
 ]);
 }
+public function create(){
+    return view('aps.create');
+}
+public function store(request $request){
+    $novoAp=$request->validate ([
+        'suspenssao'=>['required','min:2','max:100'],
+        'preco'=>['nullable','min:2'],
+        'observacoes'=>['nullable','min:2','max:200'],
+        'info'=>['nullable','min:2','max:200'],
+
+]);
+    $ap=Ap::create($novoAp);
+    return redirect()->route('aps.show',[
+        'id'=>$ap->id_ap]);
+}
 }

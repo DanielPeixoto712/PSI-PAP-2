@@ -25,7 +25,7 @@ public function create(){
 }
 public function store(request $request){
     $novoBomp=$request->validate ([
-        'backet'=>['required','min:2','max:100'],
+        'motor'=>['required','min:2','max:100'],
         'preco'=>['nullable','min:2'],
         'observacoes'=>['nullable','min:2','max:200'],
         'info'=>['nullable','min:2','max:200'],

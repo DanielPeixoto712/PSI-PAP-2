@@ -12,9 +12,9 @@
 <br><br><br><br><br>
 @section ('produtos')
 
-<form action="{{route('bomps.store')}}" method="post">
+<form action="{{route('aps.store')}}" method="post">
 	@csrf
-	Backet:<input type="text" name="backet" value="{{old('backet')}}"><br>
+	Suspensão:<input type="text" name="suspenssao" value="{{old('suspenssao')}}"><br>
 	Preço::<input type="text" name="preco" value="{{old('preco')}}"><br>
 	Observações::<textarea name="observacoes">{{old('observacoes')}}</textarea><br>
 	Informação::<input type="text" name="info" value="{{old('info')}}"><br>

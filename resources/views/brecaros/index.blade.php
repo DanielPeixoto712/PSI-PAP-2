@@ -1,4 +1,4 @@
-@extends('layout')
+@extends ('layout')
 
 @section ('titulo')
 @endsection
@@ -7,13 +7,14 @@
 @endsection
 
 @section ('menu')
-          
 @endsection
+
+
 
 @section ('produtos')
  <div class="col-lg-9">
 
-        <div id="carouselExampleIndicators" class="carousel slide my-4" data-ride="carousel" style="width: 930px">
+        <div id="carouselExampleIndicators" class="carousel slide my-4" data-ride="carousel">
           <ol class="carousel-indicators">
             <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
             <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -39,46 +40,41 @@
             <span class="sr-only">Next</span>
           </a>
         </div>
+        
+        <div align="center">
+        <a href="{{route('brecaros.create')}}"><button type="button" class="btn btn-outline-primary">Criar</button></a>
+</div><br>
+        <div class="row">
+
+         @foreach($brecaros as $brecaro)
+          <div class="col-lg-4 col-md-6 mb-4">
+            <div class="card h-100">
+              <a href="#"><img class="card-img-top" src="img/logo.png" alt=""></a>
+              <div class="card-body">
+                <h4 class="card-title">
+
+
+                  <a href="{{route('brecaros.show', ['id'=>$brecaro->id_brecaro])}} "class="list-group-item"  >{{$brecaro->backet}}</a>
+                </h4>
+                <h5>{{$brecaro->preco}} €</h5>
+                <p class="card-text">{{$brecaro->info}}</p>
+              </div>
+              <div class="card-footer">
+                <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
+              </div>
+            </div>
+          </div>
+
+@endforeach
 
 
 
+          
 
-<div class="row">
-<div class="col-md-3 offset-md-1">
-          <div  class="card" style="width: 18rem;" >
-  <img class="card-img-top" src="img/omp1.jpg" alt="Imagem de capa do card">
-  <div class="card-body">
-    <h5 class="card-title">Temos vários volantes!</h5>
-    <p class="card-text">Para todos os gostos!</p>
-    <a href="{{route('omps.index')}}" target="blank" class="btn btn-primary">Visitar</a>
-  </div>
-</div>
-</div>
+          
+         
 
-<div class="col-md-3 offset-md-1">
-
-<div class="card" style="width: 18rem;">
-  <img class="card-img-top" src="img/susp1.jpg" alt="Imagem de capa do card">
-  <div class="card-body">
-    <h5 class="card-title">teste</h5>
-    <p class="card-text">trs</p>
-    <a href="https://www.google.pt/maps/place/Grandes+Planos+S.A./@41.3417066,-8.4791091,17z/data=!3m1!4b1!4m5!3m4!1s0xd24f58e776d1e03:0xda5ef49273bb8e1f!8m2!3d41.3417066!4d-8.4769204" target="blank" class="btn btn-primary">Visitar</a>
-  </div>
-</div>
-</div>
-
-<div class="col-md-3 offset-md-1">
-<div class="card" style="width: 18rem;">
-  <img class="card-img-top" src="img/2jj.jpg" alt="Imagem de capa do card">
-  <div class="card-body">
-    <h5 class="card-title">Aqui encontra o motor que procura!</h5>
-    <p class="card-text">Procure aqui!</p>
-    <a href="{{route('bmws.index')}}" target="blank" class="btn btn-primary">Visitar</a>
-  </div>
-</div>
-</div>
-</div> 
-
+         
 
 
           
@@ -93,7 +89,17 @@
     <!-- /.row -->
 
   </div>
+
 @endsection
 
 @section ('rodape')
 @endsection
+
+
+
+
+
+</ul>
+
+   
+

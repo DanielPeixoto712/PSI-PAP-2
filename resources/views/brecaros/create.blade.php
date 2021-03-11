@@ -12,7 +12,7 @@
 <br><br><br><br><br>
 @section ('produtos')
 
-<form action="{{route('bomps.store')}}" method="post">
+<form action="{{route('brecaros.store')}}" method="post">
 	@csrf
 	Backet:<input type="text" name="backet" value="{{old('backet')}}"><br>
 	Preço::<input type="text" name="preco" value="{{old('preco')}}"><br>

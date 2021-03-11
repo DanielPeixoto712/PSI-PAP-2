@@ -94,8 +94,14 @@
     <div class="row">
 
       <div class="col-lg-3">
+        <br>
 
-        <a href="{{route('index')}}"><h1 class="my-4">Auto Parts</h1></a>
+        <a href="{{route('index')}}">
+          <img src="img/logo.png" width="250" height="200">
+
+
+        </a>
+        <br><br>
         <div class="list-group">
 
           @yield ('menu')
@@ -103,10 +109,10 @@
 
 
 <!--Motores-->
-<div style="background-color:#E6E6E6" align="center">
+<div style="background-color:#F2F2F2" align="center">
 
          <div class="dropdown">
-  <button class="btn btn btn-outline-primary" type="button" data-toggle="dropdown">Motores
+  <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Motores
   <span class="caret"></span></button>
   <ul class="dropdown-menu">
     <li><a href="{{route('nissans.index')}}" class="list-group-item">Nissan</a></li>
@@ -119,7 +125,7 @@
 <br>
 
         <div class="dropdown">
-  <button class="btn btn btn-outline-primary" type="button" data-toggle="dropdown">Suspensões
+  <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Suspensões
   <span class="caret"></span></button>
   <ul class="dropdown-menu">
     <li><a href="{{route('yellows.index')}}" class="list-group-item">Yellow Speed Racing</a></li>
@@ -130,7 +136,7 @@
 <br>
 <!--Volantes-->
 <div class="dropdown">
-  <button class="btn btn btn-outline-primary" type="button" data-toggle="dropdown">Volantes
+  <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Volantes
   <span class="caret"></span></button>
   <ul class="dropdown-menu">
     <li><a href="{{route('omps.index')}}" class="list-group-item">OMP</a></li>
@@ -143,10 +149,12 @@
 
 <!--Backets-->
 <div class="dropdown">
-  <button class="btn btn btn-outline-primary" type="button" data-toggle="dropdown">Backets
+  <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Backets
   <span class="caret"></span></button>
   <ul class="dropdown-menu">
-    <a href="{{route('bomps.index')}}" class="list-group-item">OMP</a>
+   <li><a href="{{route('bomps.index')}}" class="list-group-item">OMP</a></li>
+   <li><a href="{{route('brecaros.index')}}" class="list-group-item">Recaro</a></li>
+
     
   </ul>
 </div>

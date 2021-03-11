@@ -1,0 +1,3386 @@
+<!DOCTYPE html>
+<!-- saved from url=(0096)https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Products/REC15190 -->
+<html lang="pt" class="script webkit"><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="./rec2_files/a.js.download"></script>
+
+    <title>RECARO (FIA) POLE POSITION - VELOUR VERMELHO PILOTO&amp;COPILOTO</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+
+
+    
+
+<script type="text/javascript" async="" src="./rec2_files/ga.js.download"></script><script async="" src="./rec2_files/analytics.js.download"></script><script type="text/javascript" src="./rec2_files/saved_resource"></script>
+
+
+<script type="text/javascript">
+
+(function(require){
+
+function config(a,b){config._(config.c[a]||(config.c[a]={}),b)}config.c=require.config=require.config||{};config._=function(a,b){for(var c in b)b[c]instanceof Object?config._(a[c]||(a[c]={}),b[c]):a[c]=b[c]};
+
+
+config("jquery/canvas/canvastext", {
+  fontRoot: ["", "WebRoot", "StoreES", "Shops", "17634835", "51F7", "7478", "C6E9", "50EC", "1337", "C0A8", "29BA", "0661"].join("/")
+});
+
+config("ep", {
+  baseUrl: ["https\u003A", "", "www\u002Eckctuning\u002Ecom", "epages", "17634835\u002Esf", "pt_PT", ""].join("/"),
+  canonicalUrl: 'https\u003A\u002F\u002Fwww\u002Eckctuning\u002Ecom\u002FRECARO-FIA-POLE-POSITION-VELOUR-VERMELHO-PILOTOCOPILOTO',
+  objectId: '58422823',
+  viewAction: 'View',
+  storeFrontUrl: ["https\u003A", "", "www\u002Eckctuning\u002Ecom", "epages", "17634835\u002Esf"].join("/"),
+  requestProtocolAndServer: 'https\u003A\u002F\u002Fwww\u002Eckctuning\u002Ecom',
+  webUrj: ["http\u003A", "", "www\u002Eckctuning\u002Ecom", "epages", "17634835\u002Esf", "\u003FObjectPath\u003D", "Shops", "17634835", "Products", "REC15190"].join("/"),
+  webUrlSsl: ["https\u003A", "", "www\u002Eckctuning\u002Ecom", "epages", "17634835\u002Esf", "\u003FObjectPath\u003D", "Shops", "17634835", "Products", "REC15190"].join("/"),
+  google: {
+    
+  }
+});
+
+}(require));
+</script>
+
+<link type="text/css" href="./rec2_files/package-sf.css" rel="stylesheet">
+
+<script type="text/javascript" src="./rec2_files/package-sf.js.download"></script>
+
+
+
+<script type="text/javascript">
+    var jq = jQuery.noConflict();
+</script>
+<script type="text/javascript">
+    require(["jquery/metaparse", "de_epages/design/inc/sf-initialize"]);
+
+    
+      
+    require(["de_epages/externalcontent/dojogadgetfix"]);
+    
+
+    require(["ep/inject-sec-token"], function (ep) {
+        ep.injectSecToken();
+    });
+
+    
+</script>
+<script type="text/javascript">
+window.offscreenBuffering = true;
+</script>
+
+<script type="text/javascript">
+require(["jquery", "util/storage", "$ready!"], function ($, storage) {
+  var fromCategory = storage.sessionStorage("Product::FromCategory");
+
+  if( fromCategory ){
+    // jump to span < h3
+    $("h3 .BreadcrumbLastItem").parent().parent()
+      .children()
+        .not(':last-child')
+        .remove()
+      .end()
+      .prepend(fromCategory);
+
+    storage.sessionStorage("Product::FromCategory", null);
+  }
+});
+</script>
+
+  
+    <!-- Universal Analytics start -->
+<script type="text/javascript">
+    // Disable tracking if the opt-out cookie exists.
+    var disableStr = 'ga-disable-UA-47865934-27';
+    if (document.cookie.indexOf(disableStr + '=true') > -1) {
+        window[disableStr] = true;
+    }
+
+    // Opt-out function
+    function gaOptout() {
+        document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+        window[disableStr] = true;
+    }
+
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    var epUAConfig = 'auto';
+    
+
+    
+        ga('create', 'UA-47865934-27', epUAConfig);
+    
+    ga('set', 'anonymizeIp', true);
+</script>
+
+    
+
+
+    <script type="text/javascript">
+        
+            ga('send', 'pageview', {
+              'page': '\u002FShops\u002F17634835\u002FProducts\u002FREC15190',
+              'title': 'RECARO\u0020\u0028FIA\u0029\u0020POLE\u0020POSITION\u0020-\u0020VELOUR\u0020VERMELHO\u0020PILOTO\u0026COPILOTO'
+            });
+        
+    </script>
+
+<!-- Universal Analytics end -->
+
+  
+
+
+<meta property="og:image" content="https://www.ckctuning.comhttp://occsport.com/img/p/6/6/1/5/3/66153.jpg">
+<meta property="og:image:alt" content="RECARO (FIA) POLE POSITION - VELOUR VERMELHO PILOTO&amp;COPILOTO">
+<meta property="og:title" content="RECARO (FIA) POLE POSITION - VELOUR VERMELHO PILOTO&amp;COPILOTO">
+<meta property="og:type" content="product">
+
+    <meta property="og:url" content="https://www.ckctuning.com/RECARO-FIA-POLE-POSITION-VELOUR-VERMELHO-PILOTOCOPILOTO">
+
+<meta property="og:description" content="">
+
+
+<link rel="shortcut icon" type="image/x-icon" href="https://www.ckctuning.com/WebRoot/StoreES/Shops/17634835/favicon.ico">
+
+
+
+
+<link rel="canonical" href="https://www.ckctuning.com/RECARO-FIA-POLE-POSITION-VELOUR-VERMELHO-PILOTOCOPILOTO">
+  
+    
+      
+        
+          <link rel="alternate" hreflang="es" href="https://www.ckctuning.com/RECARO-FIA-POLE-POSITION-VELOUR-ROJO-PILOTOCOPILOTO">
+        
+      
+        
+          <link rel="alternate" hreflang="de" href="https://www.ckctuning.com/RECARO-FIA-POLE-POSITION-VELOUR-ROT-PILOTCOPILOT">
+        
+      
+        
+          <link rel="alternate" hreflang="en" href="https://www.ckctuning.com/RECARO-FIA-POLE-POSITION-VELOUR-RED-PILOTCOPILOT">
+        
+      
+        
+          <link rel="alternate" hreflang="fr" href="https://www.ckctuning.com/RECARO-FIA-POLE-POSITION-VELOUR-ROUGE-PILOTECOPILOTE">
+        
+      
+        
+          <link rel="alternate" hreflang="it" href="https://www.ckctuning.com/RECARO-FIA-POLE-POSITION-VELOUR-ROSSO-PILOTACOPILOTA">
+        
+      
+        
+          <link rel="alternate" hreflang="ru" href="https://www.ckctuning.com/RECARO-FIA-POLE-POSITION-VELOUR-KRASNYY-PILOTCOPILOTA">
+        
+      
+        
+          <link rel="alternate" hreflang="pt" href="https://www.ckctuning.com/RECARO-FIA-POLE-POSITION-VELOUR-VERMELHO-PILOTOCOPILOTO">
+        
+      
+    
+    
+      
+        
+          <link rel="alternate" hreflang="es-ES" href="https://www.ckctuning.com/RECARO-FIA-POLE-POSITION-VELOUR-ROJO-PILOTOCOPILOTO">
+        
+          <link rel="alternate" hreflang="de-DE" href="https://www.ckctuning.com/RECARO-FIA-POLE-POSITION-VELOUR-ROT-PILOTCOPILOT">
+        
+          <link rel="alternate" hreflang="en-GB" href="https://www.ckctuning.com/RECARO-FIA-POLE-POSITION-VELOUR-RED-PILOTCOPILOT">
+        
+          <link rel="alternate" hreflang="fr-FR" href="https://www.ckctuning.com/RECARO-FIA-POLE-POSITION-VELOUR-ROUGE-PILOTECOPILOTE">
+        
+          <link rel="alternate" hreflang="it-IT" href="https://www.ckctuning.com/RECARO-FIA-POLE-POSITION-VELOUR-ROSSO-PILOTACOPILOTA">
+        
+          <link rel="alternate" hreflang="ru-RU" href="https://www.ckctuning.com/RECARO-FIA-POLE-POSITION-VELOUR-KRASNYY-PILOTCOPILOTA">
+        
+          <link rel="alternate" hreflang="pt-PT" href="https://www.ckctuning.com/RECARO-FIA-POLE-POSITION-VELOUR-VERMELHO-PILOTOCOPILOTO">
+        
+      
+    
+  
+
+
+  <link href="./rec2_files/StorefrontStyle_1870.css" rel="stylesheet" type="text/css">
+
+  
+
+  
+    <!--[if IE]>
+    <link href="/WebRoot/StoreTypes/7.55.0/StratoES/lib/de_epages/design/style-ie.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <style type="text/css">
+      /* if IE 10 */
+      @import url('/WebRoot/StoreTypes/7.55.0/StratoES/lib/de_epages/design/style-ie.css') screen and (-ms-high-contrast: active), (-ms-high-contrast: none);
+    </style>
+
+
+
+
+
+
+  
+<script type="text/javascript">
+try{
+  window.onerror = window.onerrorbak;
+}
+catch(e){
+}
+</script>
+  
+<!-- Begin: User-defined HTML Head area -->
+
+  <meta name="google-translate-customization" content="1f936118bd9808f4-b1717ee2cca24789-g6337d962379fb302-11">
+
+<meta name="msvalidate.01" content="5EBC84A59686741B711BF2C650AB2EE2">
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37445296-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<link href="./rec2_files/css" rel="stylesheet" type="text/css">
+<style type="text/css">
+
+
+html.IsEditor, body {background-color: #FFF; }
+h1, h2, th, ul#DropDownList77755669.HorizontalDisplay.NavBarElement1.DropDownList li a, .NavBarRoof table tbody tr td, .Header div#NavElement_77755973.ContextBox.SearchBox.NavBarElement0 div.BoxContainer div.ContextBoxHead span {font-family: 'Teko', sans-serif !important;}
+p {line-height:170% !important; }
+a img:hover {opacity: 0.8 }
+.ep-gadget.epgadget-contentslider.contentslider ul li a img:hover {opacity: 1}
+
+.NavBarRoof div#NavElement_77755711.NavBarElement0 {padding-right:200px; }
+
+.Header.HorizontalNavBar div.NavBarElement2.BasketBox.NavElementIcon {background: url('/WebRoot/StoreES/Shops/17634835/MediaGallery/layout/header_basket-ico.png') no-repeat top center; height: 50px; padding-top:70px; }
+.Header .ContextBox .ContextBoxHead span {height:30px !important; }
+
+.NavBarTop ul#DropDownList77755669.HorizontalDisplay.NavBarElement1.DropDownList li {padding-right:6px; }
+ul.DropDownList li ul {box-shadow: none; border-bottom-left-radius: none; border-bottom-right-radius: none; top:42px; }
+
+.ContentArea div.CategoryBase div.CategoryBaseTable.TextComplete div#marcas {background: url('/WebRoot/StoreES/Shops/17634835/MediaGallery/layout/marcas-bg.jpg') repeat-x bottom center; }
+.Middle {margin-top:52px; }
+.PagerSizeContainer .Current, .PagerSizeContainer li:hover {color: #FFF; }
+.BasketIcon {background: url("/WebRoot/StoreTypes/6.17.47/StratoES/SF/Icon/WireframeWhite/ico_s_basket.png") repeat scroll 0 0 !important}
+#ProductInfoTabs .ui-tabs-nav .ui-tabs-active, #ProductInfoTabs .ui-tabs-nav .ui-tabs-active a {color: #FFF; }
+.HomeIcon {background: rgba(0, 0, 0, 0) url("/WebRoot/StoreTypes/6.17.47/StratoES/SF/Icon/WireframeWhite/ico_s_home.png") repeat scroll 0 0 !important}
+div#RemoteSearchFacets.RemoteSearchFacets.ContextBox div.BoxContainer form ul.ContextBoxBody.FontSmaller li.RemoteSearchFacet.RemoteSearchFacetCategory {display: none}
+.contentslider .contentslider-pager { right: 480px; bottom: 12px; }
+.contentslider .contentslider-pager a { background: none; border: 1px solid #DEDEDE; width: 12px; height: 12px; opacity: 1.0; }
+.contentslider .contentslider-pager .activeSlide {background-image: none; background-color:#FFF; border: none; width:14px; height:14px; }
+
+.NavBarBottom div#NavElement_77757597.NavBarElement0 div.NavigationText table tbody tr td h3 a {font-weight: bold}
+
+#NavElement_77762409.NavBarElement0 table tbody tr th {background: url('/WebRoot/StoreES/Shops/17634835/MediaGallery/layout/footer-line.jpg') no-repeat left 2px bottom 5px; }
+
+.Footer p, .Footer td {padding: 2px 4px; }
+
+.NavBarRoof {left: 0 !important; margin: 0 !important; position: absolute !important; width: 100%; }
+.NavBarTop {left: 0 !important; margin: 0 !important; position: absolute !important; width: 100%; }
+.Footer {left: 0 !important; margin: 50px 0 0 !important; position: absolute !important; width: 100% !important; } 
+
+</style>
+
+<meta name="google-site-verification" content="9irHJ2VDYrXDqUF4IPXg1aFxUvE426V_94FjYYY_PyM">
+
+<!-- End: User-defined HTML Head area -->
+<script type="text/javascript">
+
+(function(win){
+  if( !jQuery.fn.jquerysdk ){
+    jQuery.noConflict(true);
+
+    var $ = jQuery,
+      noConflict = $.config.noConflict;
+
+    if( !noConflict ){
+      win.$ = $;
+    }
+    else if( typeof noConflict == 'string' ){
+      win[ noConflict ] = $;
+    }
+  }
+  
+    try{
+      win.onerror = function() {
+        return true;
+      };
+    }
+    catch(e){
+    }
+  
+})(window);
+</script>
+
+
+
+
+
+<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="util/string" src="./rec2_files/string.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="util/legacy" src="./rec2_files/legacy.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="util/tools" src="./rec2_files/tools.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="util/constants" src="./rec2_files/constants.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="util/browser" src="./rec2_files/browser.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="util/scope" src="./rec2_files/scope.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="util/json" src="./rec2_files/json.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="util/base64" src="./rec2_files/base64.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="ep/inject-sec-token" src="./rec2_files/inject-sec-token.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="util/storage" src="./rec2_files/storage.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="$ready" src="./rec2_files/$ready.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="de_epages/remotesearch/ui/suggest" src="./rec2_files/suggest.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="util/utf8" src="./rec2_files/utf8.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/cookie" src="./rec2_files/cookie.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/ui/data" src="./rec2_files/data.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/ui/disable-selection" src="./rec2_files/disable-selection.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/ui/focusable" src="./rec2_files/focusable.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/ui/form" src="./rec2_files/form.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/ui/ie" src="./rec2_files/ie.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/ui/keycode" src="./rec2_files/keycode.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/ui/labels" src="./rec2_files/labels.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/ui/jquery-1-7" src="./rec2_files/jquery-1-7.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/ui/plugin" src="./rec2_files/plugin.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/ui/safe-active-element" src="./rec2_files/safe-active-element.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/ui/safe-blur" src="./rec2_files/safe-blur.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/ui/scroll-parent" src="./rec2_files/scroll-parent.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/ui/tabbable" src="./rec2_files/tabbable.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/ui/unique-id" src="./rec2_files/unique-id.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/ui/version" src="./rec2_files/version.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/ui/widgets/mouse" src="./rec2_files/mouse.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/ui/widgets/dialog" src="./rec2_files/dialog.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/ui/widgets/tabs" src="./rec2_files/tabs.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/ui/widgets/slider" src="./rec2_files/slider.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="$pub" src="./rec2_files/$pub.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="class" src="./rec2_files/class.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="util/mime" src="./rec2_files/mime.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="$dict" src="./rec2_files/$dict.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="$tmpl" src="./rec2_files/$tmpl.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="ep/ui/core" src="./rec2_files/core.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="util/support" src="./rec2_files/support.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/event/special/load" src="./rec2_files/load.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/event/special/touch" src="./rec2_files/touch.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="util/version" src="./rec2_files/version.js(1).download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="ep/ui/validate" src="./rec2_files/validate.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="de_epages" src="./rec2_files/de_epages.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="de_epages/content/inc/dropdown" src="./rec2_files/dropdown.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/ui/button" src="./rec2_files/button.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/ui/draggable" src="./rec2_files/draggable.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/ui/resizable" src="./rec2_files/resizable.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/ui/escape-selector" src="./rec2_files/escape-selector.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/ui/widgets/button" src="./rec2_files/button.js(1).download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/ui/widgets/draggable" src="./rec2_files/draggable.js(1).download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/ui/widgets/resizable" src="./rec2_files/resizable.js(1).download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/ui/controlgroup" src="./rec2_files/controlgroup.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/ui/checkboxradio" src="./rec2_files/checkboxradio.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/event/special/dom" src="./rec2_files/dom.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="de_epages/design/ui/cookiemessage" src="./rec2_files/cookiemessage.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="de_epages/product/inc/energylabel" src="./rec2_files/energylabel.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/ui/widgets/controlgroup" src="./rec2_files/controlgroup.js(1).download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/ui/widgets/checkboxradio" src="./rec2_files/checkboxradio.js(1).download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="ep/ui/simpledialog" src="./rec2_files/simpledialog.js.download"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/ui/form-reset-mixin" src="./rec2_files/form-reset-mixin.js.download"></script></head>
+
+    
+
+  
+<body class="epages no-sidebars message-bar-parent" lang="pt" itemscope="" itemtype="http://schema.org/WebPage"><div style="left: -100em; position: absolute; width: 100em;"></div>
+
+
+
+
+  
+    
+    <div class="Layout1 GeneralLayout Div">
+
+ 
+  <div class="NavBarRoof HorizontalNavBar">
+    <div class="PropertyContainer">
+      
+
+ 
+  
+  
+  <div class="SizeContainer">
+<div class=" NavBarElement0" id="NavElement_77755711">
+  
+  <div class="NavigationText ">
+  <table>
+	<tbody>
+		<tr>
+			<td><img alt="telefono" src="./rec2_files/header_ico1.png" style="width: 23px; height: 24px; float: left;" title="telefono"></td>
+			<td>&nbsp;</td>
+			<td style="padding-left:40px"><a href="mailto:victor.guigar@ckctuning.com"><img alt="telefono" src="./rec2_files/header_ico2.png" style="float: left; width: 34px; height: 24px;" title="email"></a></td>
+			<td><span style="font-family: Arial, Verdana, Helvetica; font-size: 14px;">shop@ckctuning.com</span></td>
+			<td style="padding-left:40px"><a data-link-type="tree" data-type="linkpicker" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ContactForm"><img alt="contacto" src="./rec2_files/header_ico4.png" style="width: 31px; height: 26px; float: left;" title="contacto"></a></td>
+			<td><a data-link-type="tree" data-type="linkpicker" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ContactForm" style="font-size:22px;">CONTACTO</a></td>
+			<td style="padding-left:40px"><a data-link-type="tree" data-type="linkpicker" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/BLOG"><img alt="blog" src="./rec2_files/header_ico3.png" style="width: 34px; height: 24px; float: left;" title="blog"></a></td>
+			<td><a data-link-type="tree" data-type="linkpicker" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/BLOG" style="font-size:22px;">BLOG</a></td>
+		</tr>
+	</tbody>
+</table>
+  </div>
+  
+</div>
+<div class="LocaleFlags NavBarElement1">
+  <a href="https://www.ckctuning.com/epages/17634835.sf/es_ES/?ViewObjectPath=%2FShops%2F17634835%2FProducts%2FREC15190"><img src="./rec2_files/es_ES.gif" alt="Alternar país/idioma: España (Español)" title="Alternar país/idioma: España (Español)"></a>
+  <a href="https://www.ckctuning.com/epages/17634835.sf/de_DE/?ViewObjectPath=%2FShops%2F17634835%2FProducts%2FREC15190"><img src="./rec2_files/de_DE.gif" alt="Alternar país/idioma: Deutschland (Deutsch)" title="Alternar país/idioma: Deutschland (Deutsch)"></a>
+  <a href="https://www.ckctuning.com/epages/17634835.sf/en_GB/?ViewObjectPath=%2FShops%2F17634835%2FProducts%2FREC15190"><img src="./rec2_files/en_GB.gif" alt="Alternar país/idioma: United Kingdom (English)" title="Alternar país/idioma: United Kingdom (English)"></a>
+  <a href="https://www.ckctuning.com/epages/17634835.sf/fr_FR/?ViewObjectPath=%2FShops%2F17634835%2FProducts%2FREC15190"><img src="./rec2_files/fr_FR.gif" alt="Alternar país/idioma: France (Français)" title="Alternar país/idioma: France (Français)"></a>
+  <a href="https://www.ckctuning.com/epages/17634835.sf/it_IT/?ViewObjectPath=%2FShops%2F17634835%2FProducts%2FREC15190"><img src="./rec2_files/it_IT.gif" alt="Alternar país/idioma: Italia (Italiano)" title="Alternar país/idioma: Italia (Italiano)"></a>
+  <a href="https://www.ckctuning.com/epages/17634835.sf/ru_RU/?ViewObjectPath=%2FShops%2F17634835%2FProducts%2FREC15190"><img src="./rec2_files/ru_RU.gif" alt="Alternar país/idioma: Россия (Русский язык)" title="Alternar país/idioma: Россия (Русский язык)"></a>
+  <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ViewObjectPath=%2FShops%2F17634835%2FProducts%2FREC15190"><img src="./rec2_files/pt_PT.gif" alt="Alternar país/idioma: Portugal (Português)" title="Alternar país/idioma: Portugal (Português)"></a>
+</div><div class="NavigationElement NavBarElement2 ">
+  <a rel="nofollow" class="Action " href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835&amp;ViewAction=ViewMyAccount">A minha conta</a>
+</div>
+  <div class="NavigationElement NavBarElement3 ">
+    <a rel="nofollow" class="Action " href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835&amp;ViewAction=ViewMyAccount&amp;LastViewAction=ViewMyAccount&amp;HideNotice=1">Iniciar uma sessão</a>
+  </div>
+
+</div>
+  
+  
+
+
+    </div>
+  </div>
+ 
+ 
+  <div class="Header HorizontalNavBar">
+    <div class="PropertyContainer">
+      
+
+ 
+  
+  
+  <div class="SizeContainer custom-container custom-left">
+
+<div class="ContextBox SearchBox NavBarElement0" id="NavElement_77755973">
+  <div class="BoxContainer">
+    <div class="ContextBoxHead">
+      <span>Pesquisa de produto</span>
+    </div>
+
+  
+    
+      
+    
+  
+    
+
+
+
+
+  <form class="ep-js" data-js="" id="RemoteSearch0" action="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?" method="get">
+  <input type="hidden" name="ObjectID" value="24618253">
+  <input type="hidden" name="ViewAction" value="FacetedSearchProducts">
+    <div class="ContextBoxBody">
+        <div class="Entry">
+            <div class="InputField SearchForm horizontal-search">
+                <input class="Search ep-uiInput ep-uiInput-text ep-uiValidate" type="text" maxlength="255" name="SearchString" id="RemoteSearchSuggest604A46390A0C6D10D29D" placeholder="Pesquisar por" autocomplete="off"><input type="hidden">
+                <button class="search-button" name="SearchButton" type="submit" title="Iniciar pesquisa">
+                  <span class="ep-sprite ep-sprite-s ep-uiInput-buttonSpriteOnly Icon SearchIcon"></span>
+                </button>
+            </div>
+            <script type="text/javascript">
+            jQuery.ready("de_epages.remotesearch.ui.suggest",function($){
+              de_epages("#RemoteSearchSuggest604A46390A0C6D10D29D")
+                .remotesearchUiSuggest({
+                  required: true,
+                  suggestUrl: "\u002F\u002Fepj\u002Estrato\u002Ede\u002Frs\u002Fproduct\u002FStoreES\u002F50932417-23FE-070D-EEF3-C0A828BCB4FA\u002Fsuggest\u002Fjsonp\u003Flang\u003Dpt",
+                  showError: false,
+                  navbar: "Header"
+                });
+            });
+            </script>
+        </div>
+    </div>
+  </form>
+
+
+
+
+
+  
+
+  </div>
+</div>
+
+<div class="ShopLogo NavBarElement1">
+  <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=Categories" title="CkcTuning" class="ShowElement">
+  <img src="./rec2_files/logo.jpg" alt="CkcTuning">
+  </a>
+
+</div></div>
+  <div class="SizeContainer custom-container custom-right">
+
+
+
+
+
+<div class="NavBarElement2 BasketBox NavElementIcon ">
+
+  
+
+  
+    <span>O seu carrinho de compras está vazio.</span>
+  
+
+  
+
+</div>
+
+</div>
+  
+  
+
+
+    </div>
+  </div>
+  <div class="NavBarTop HorizontalNavBar">
+    <div class="PropertyContainer">
+      
+
+ 
+  
+  
+  <div class="SizeContainer">
+
+  
+    
+      
+      
+        
+        <ul class="HorizontalDisplay  NavBarElement0 DropDownList" id="DropDownList77755669">
+          
+            
+            
+            <li class="NavigationElement Category-24834698">
+              
+              
+                  <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/CARROCERIA">CORPO</a>
+              
+              
+              
+              
+<ul style="display: none;">
+  
+    
+    
+      <li class="Category-61333625">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/CARROCERIA/Aerodinamica">Aerodinâmica
+        <span>›</span></a>
+      
+      
+      
+        
+<ul style="display: none;">
+  
+    
+    
+      <li class="Category-24835123">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/CARROCERIA/Aerodinamica/ALFA">Alfa
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835124">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/CARROCERIA/Aerodinamica/AUDI">Audi
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835125">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/CARROCERIA/Aerodinamica/BMW">Bmw
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835127">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/CARROCERIA/Aerodinamica/CITROEN">Citroen
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835130">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/CARROCERIA/Aerodinamica/FIAT">Fiat
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835131">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/CARROCERIA/Aerodinamica/FORD">Ford
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835132">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/CARROCERIA/Aerodinamica/HONDA">Honda
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835133">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/CARROCERIA/Aerodinamica/HYUNDAI">Hyundai
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835136">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/CARROCERIA/Aerodinamica/MAZDA">Mazda
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-26115193">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/CARROCERIA/Aerodinamica/MINI">Mini
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835137">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/CARROCERIA/Aerodinamica/MERCEDES">Mercedes
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835138">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/CARROCERIA/Aerodinamica/MITSUBISHI">Mitsubishi
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835139">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/CARROCERIA/Aerodinamica/NISSAN">Nissan
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835140">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/CARROCERIA/Aerodinamica/OPEL">Opel
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835141">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/CARROCERIA/Aerodinamica/PEUGEOT">Peugeot
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-25672770">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/CARROCERIA/Aerodinamica/PORSCHE">Porsche
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835142">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/CARROCERIA/Aerodinamica/RENAULT">Renault
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835143">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/CARROCERIA/Aerodinamica/ROVER">Rover
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-26115316">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/CARROCERIA/Aerodinamica/SMART">Smart
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835144">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/CARROCERIA/Aerodinamica/SEAT">Seat
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835145">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/CARROCERIA/Aerodinamica/SKODA">Skoda
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835146">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/CARROCERIA/Aerodinamica/SUBARU">Subaru
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835147">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/CARROCERIA/Aerodinamica/SUZUKI">Suzuki
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835148">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/CARROCERIA/Aerodinamica/TOYOTA">Toyota
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835149">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/CARROCERIA/Aerodinamica/VOLKSWAGEN">Volkswagen
+        </a>
+      
+      
+      
+      </li>
+    
+  
+</ul>
+
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-25672722">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/CARROCERIA/TOMADEAIRE">Entrada de ar
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-31395265">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/CARROCERIA/Derivabrisas">Derivabrisas
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-25672721">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/CARROCERIA/UNIVERSAL">Universal-luzes-Grid
+        </a>
+      
+      
+      
+      </li>
+    
+  
+</ul>
+
+              
+            </li>
+            
+            
+          
+            
+            
+            <li class="NavigationElement Category-24834692">
+              
+              
+                  <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ASIENTOS">ASSENTOS</a>
+              
+              
+              
+              
+<ul style="display: none;">
+  
+    
+    
+      <li class="Category-24835061">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ASIENTOS/%22recaro%20line%22">Linha Recaro
+        <span>›</span></a>
+      
+      
+      
+        
+<ul style="display: none;">
+  
+    
+    
+      <li class="Category-28859867">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ASIENTOS/%22recaro%20line%22/ERGONOMICOS">ERGONÔMICO
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-28859876">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ASIENTOS/%22recaro%20line%22/SPORT">SPORT
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-28859915">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ASIENTOS/%22recaro%20line%22/RACING">RACING
+        </a>
+      
+      
+      
+      </li>
+    
+  
+</ul>
+
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835060">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ASIENTOS/%22sparco%20line%22">Linha Sparco
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835064">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ASIENTOS/Bases_asiento">Bases de assento
+        <span>›</span></a>
+      
+      
+      
+        
+<ul style="display: none;">
+  
+    
+    
+      <li class="Category-24835065">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ASIENTOS/Bases_asiento/Recaro">Recaro
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835066">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ASIENTOS/Bases_asiento/Sparco">Sparco
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-79876521">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ASIENTOS/Bases_asiento/omp">Omp
+        </a>
+      
+      
+      
+      </li>
+    
+  
+</ul>
+
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-72402663">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ASIENTOS/MOMO">Momo
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-79877104">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ASIENTOS/OMP">OMP
+        </a>
+      
+      
+      
+      </li>
+    
+  
+</ul>
+
+              
+            </li>
+            
+            
+          
+            
+            
+            <li class="NavigationElement Category-46179207">
+              
+              
+                  <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS">ACESSÓRIOS</a>
+              
+              
+              
+              
+<ul style="display: none;">
+  
+    
+    
+      <li class="Category-24834706">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS/ACCESORIOS-COCHE">Acessórios Exterior
+        <span>›</span></a>
+      
+      
+      
+        
+<ul style="display: none;">
+  
+    
+    
+      <li class="Category-24835187">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS/ACCESORIOS-COCHE/Antenas">Antenas
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835188">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS/ACCESORIOS-COCHE/Cubrecoche">As tampas do carro
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835189">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS/ACCESORIOS-COCHE/Escobillas">Escovas
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835186">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS/ACCESORIOS-COCHE/Lamina_solar">Lamina Solar
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835193">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS/ACCESORIOS-COCHE/Porta_matricula">Porta de Registro
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835190">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS/ACCESORIOS-COCHE/Protectores">Covers
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24952426">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS/ACCESORIOS-COCHE/Cromados">Cromo
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24953222">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS/ACCESORIOS-COCHE/Terminales">Terminais
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24991558">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS/ACCESORIOS-COCHE/Adhesivos">Adesivos
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-31931011">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS/ACCESORIOS-COCHE/Cadenas">Correntes
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-41672964">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS/ACCESORIOS-COCHE/Llavesyllaveros">Chaves e chaveiros
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24953153">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS/ACCESORIOS-COCHE/Tapacubos">Hubcaps
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-58217910">
+      
+        
+        <a href="http://www.ckcwheels.com/epages/63581487.sf/sec63f8f91011/?Locale=pt_PT&amp;ViewObjectPath=%2FShops%2F63581487%2FCategories%2FACCESORIOS%2FSEPARADORES&amp;ChangeAction=SaveLocale&amp;ChangeObjectID=58214334">Espaçadores CKCWHEELS </a>
+        
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-58217946">
+      
+        
+        <a href="http://www.ckcwheels.com/epages/63581487.sf/sec63f8f91011/?Locale=pt_PT&amp;ViewObjectPath=%2FShops%2F63581487%2FCategories%2FACCESORIOS&amp;ChangeAction=SaveLocale&amp;ChangeObjectID=58214334">Parafusos e Porcas CKCWHEELS </a>
+        
+      
+      
+      
+      </li>
+    
+  
+</ul>
+
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24834691">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS/INTERIOR">ACESSÓRIOS INTERIOR
+        <span>›</span></a>
+      
+      
+      
+        
+<ul style="display: none;">
+  
+    
+    
+      <li class="Category-24835031">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS/INTERIOR/ALFOMBRILLAS">Rato
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835030">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS/INTERIOR/Adhesivos">Adesivos
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835018">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS/INTERIOR/Almohadillas">Pads
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835033">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS/INTERIOR/Cinturones">Cintos
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835034">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS/INTERIOR/Empunaduras">Handles
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835035">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS/INTERIOR/FUELLE">Fole
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835036">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS/INTERIOR/%22FUELLE%20FRENO%20DE%20MANO%22">Fole do travão de mão
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835040">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS/INTERIOR/Fundas_asiento">Seat Covers
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835042">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS/INTERIOR/Fundas_volante">Capas de volante
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835044">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS/INTERIOR/%22Lamina%20solares%22">Lamina Solares
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835045">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS/INTERIOR/Parasoles">Chapéus-de-
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835046">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS/INTERIOR/Pedales">Pedais
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835047">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS/INTERIOR/Perfumador">Sachê
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835048">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS/INTERIOR/Pomos">Manoplas
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835049">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS/INTERIOR/Respaldos">Backups
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835028">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS/INTERIOR/Salpicadero">Painel de instrumentos
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835051">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS/INTERIOR/Umbrales">Limiares
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835029">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS/INTERIOR/Volante">Volante
+        <span>›</span></a>
+      
+      
+      
+        
+<ul style="display: none;">
+  
+    
+    
+      <li class="Category-25139697">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS/INTERIOR/Volante/Pinas_de_volante">Roda Abacaxis
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-57410414">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS/INTERIOR/Volante/Volantes_Coche">Volante
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-57410420">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS/INTERIOR/Volante/Accesorios_Volante">Acessórios Volante
+        </a>
+      
+      
+      
+      </li>
+    
+  
+</ul>
+
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24952437">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS/INTERIOR/Cromados">Cromo
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24953083">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS/INTERIOR/Complementos">Acessórios
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-34324263">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS/INTERIOR/Antirrobos">Dispositivo anti-roubo
+        </a>
+      
+      
+      
+      </li>
+    
+  
+</ul>
+
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24834704">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS/PUERICULTURA">BEBE
+        <span>›</span></a>
+      
+      
+      
+        
+<ul style="display: none;">
+  
+    
+    
+      <li class="Category-24835185">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS/PUERICULTURA/%22Accesorios%20Infantiles%22">Acessórios para crianças
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835182">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS/PUERICULTURA/Sillas">Cadeiras
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835183">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS/PUERICULTURA/Alzadores">Levantadores
+        </a>
+      
+      
+      
+      </li>
+    
+  
+</ul>
+
+      
+      </li>
+    
+  
+</ul>
+
+              
+            </li>
+            
+            
+          
+            
+            
+            <li class="NavigationElement Category-24834701">
+              
+              
+                  <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/MANTENIMIENTO">MANUTENÇÃO</a>
+              
+              
+              
+              
+<ul style="display: none;">
+  
+    
+    
+      <li class="Category-24835172">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/MANTENIMIENTO/Herramienta">Ferramenta
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835171">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/MANTENIMIENTO/LIMPIEZA">Limpeza
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835173">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/MANTENIMIENTO/SEGURIDAD_VIAL">Segurança Na Estrada
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-29651939">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/MANTENIMIENTO/Aditivos">Aditivos
+        </a>
+      
+      
+      
+      </li>
+    
+  
+</ul>
+
+              
+            </li>
+            
+            
+          
+            
+            
+            <li class="NavigationElement Category-46179126">
+              
+              
+                  <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/RENDIMIENTO">DESEMPENHO</a>
+              
+              
+              
+              
+<ul style="display: none;">
+  
+    
+    
+      <li class="Category-24834699">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/RENDIMIENTO/ESCAPES">DIVULGAÇÃO
+        <span>›</span></a>
+      
+      
+      
+        
+<ul style="display: none;">
+  
+    
+    
+      <li class="Category-32759735">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/RENDIMIENTO/ESCAPES/Colas">DRIVES
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-80416527">
+      
+        
+        <a href="http://www.ckcwheels.com/epages/63581487.sf/secc7ac01b767/?Locale=pt_PT&amp;ViewObjectPath=%2FShops%2F63581487%2FCategories%2FACCESORIOS%2FRENDIMIENTO%2FESCAPES_REMUS&amp;ChangeAction=SaveLocale&amp;ChangeObjectID=80417685">ESCAPES REMUS </a>
+        
+      
+      
+      
+      </li>
+    
+  
+</ul>
+
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24834702">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/RENDIMIENTO/SUSPENSIONES">SUSPENSÕES
+        <span>›</span></a>
+      
+      
+      
+        
+<ul style="display: none;">
+  
+    
+    
+      <li class="Category-58570943">
+      
+        
+        <a href="http://www.ckcwheels.com/epages/63581487.sf/pt_PT/?ViewAction=Monitor&amp;GUID=StoreES-55871BA3-C7BE-9F67-3B25-C0A82BBADC2F" onclick="window.open(this.href,&#39;_blank&#39;);return false;">Molas desportivas CKCWheels </a>
+        
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-58570953">
+      
+        
+        <a href="http://www.ckcwheels.com/epages/63581487.sf/pt_PT/?ObjectPath=/Shops/63581487/Categories/ACCESORIOS/RENDIMIENTO/SUSPENSIONES" onclick="window.open(this.href,&#39;_blank&#39;);return false;">Absorventes De Impacto CKCWheels </a>
+        
+      
+      
+      
+      </li>
+    
+  
+</ul>
+
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24834694">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/RENDIMIENTO/FILTROS-COCHE">FILTROS
+        <span>›</span></a>
+      
+      
+      
+        
+<ul style="display: none;">
+  
+    
+    
+      <li class="Category-24835112">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/RENDIMIENTO/FILTROS-COCHE/KITADMISION">Kit Admissão direta
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835109">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/RENDIMIENTO/FILTROS-COCHE/Filtros_Sustitucion">Filtros de substituição
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835110">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/RENDIMIENTO/FILTROS-COCHE/Filtros_Universales">Filtros universais
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-58188357">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/RENDIMIENTO/FILTROS-COCHE/Accesorios_Filtros">Acessórios Filtros
+        </a>
+      
+      
+      
+      </li>
+    
+  
+</ul>
+
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24834695">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/RENDIMIENTO/DISCOSFRENO">RECORDS
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-83989964">
+      
+        
+        <a href="http://www.ckcwheels.com/epages/63581487.sf/pt_PT/?ViewObjectPath=%2FShops%2F63581487%2FCategories%2FACCESORIOS%2FRENDIMIENTO%2FBARRAS_REFUERZO">REFORÇO BARRA </a>
+        
+      
+      
+      
+      </li>
+    
+  
+</ul>
+
+              
+            </li>
+            
+            
+          
+            
+            
+            <li class="NavigationElement Category-80618631">
+              
+              
+                  <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/RACING">RACING</a>
+              
+              
+              
+              
+<ul style="display: none;">
+  
+    
+    
+      <li class="Category-80618632">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/RACING/Monos">Suits
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-80618633">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/RACING/Guantes">Luvas
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-80618634">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/RACING/Zapatillas">Sapatos
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-80618635">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/RACING/Cascos">Capacetes
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-80618636">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/RACING/Extincion">Extinção
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-80618637">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/RACING/Ropa_Interior">Roupa Íntima
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-80618638">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/RACING/Centralitas">Quadros
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-80618639">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/RACING/Accesorios">Acessórios
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-84096606">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/RACING/Arneses">Arneses
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-84096820">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/RACING/Asientos">Asientos
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-85282518">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/RACING/Roll_Cages">Roll_Cages
+        </a>
+      
+      
+      
+      </li>
+    
+  
+</ul>
+
+              
+            </li>
+            
+            
+          
+            
+            
+            <li class="NavigationElement Category-24834703">
+              
+              
+                  <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ROPA-RACING">ROUPAS</a>
+              
+              
+              
+              
+<ul style="display: none;">
+  
+    
+    
+      <li class="Category-24835177">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ROPA-RACING/Camiseta">Camisa
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-25379288">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ROPA-RACING/Camisa">Camisa
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835180">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ROPA-RACING/Gorras">Chapéus
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-25379204">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ROPA-RACING/Sueter">Suéter
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-24835179">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ROPA-RACING/Zapatillas">Chinelos
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-25379182">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ROPA-RACING/Guantes">Luvas
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-25379203">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ROPA-RACING/Chaqueta">Jaqueta
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-25379206">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ROPA-RACING/Pantalones">Calças
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-25379209">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ROPA-RACING/Mochilas">Mochilas
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-25379181">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ROPA-RACING/Cascos">Capacetes
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-45377957">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ROPA-RACING/Polo">Pólo
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-45378096">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ROPA-RACING/MerchanGadgets">Merchan&amp;Gadgets
+        </a>
+      
+      
+      
+      </li>
+    
+  
+    
+    
+      <li class="Category-58590118">
+      
+        <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ROPA-RACING/Bebe">Bebe
+        </a>
+      
+      
+      
+      </li>
+    
+  
+</ul>
+
+              
+            </li>
+            
+            
+          
+            
+            
+            <li class="NavigationElement Category-26636483">
+              
+              
+                  <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/LLANTAS">Rodas e pneus</a>
+              
+              
+              
+            </li>
+            
+            
+          
+            
+            
+            <li class="NavigationElement Category-24618330">
+              
+              
+                  <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/SpecialOffers">PROMOÇÕES</a>
+              
+              
+              
+            </li>
+            
+            
+          
+        </ul>
+        
+      
+      
+    
+  
+<script type="text/javascript">
+require(["de_epages/content/inc/dropdown", "$ready!"], function(dropdown){
+
+  dropdown.init("#DropDownList77755669 li","LeftRight");
+
+  dropdown.activate("58422823");
+});
+</script>
+<a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories" class="NavelementIcon NavBarElement1">
+  <i class="Icon HomeIcon" title="Página inicial"></i>
+</a></div>
+  
+  
+
+
+    </div>
+  </div>
+ 
+  <div class="Middle">
+ 
+  
+  
+ 
+    <!--[if IE 7]><span id="ContentAreaFix"></span><![endif]-->
+    <div class="ContentArea">
+      <div class="ContentAreaInner">
+        <div class="ContentAreaWrapper">
+          
+  
+
+  
+    
+
+<h3 class="BottomMargin BreadCrumbs" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+  <span itemscope="" itemprop="itemListElement" itemtype="http://schema.org/ListItem">
+
+
+  
+    <span itemscope="" itemprop="itemListElement" itemtype="http://schema.org/ListItem">
+      <a itemprop="item" class="BreadcrumbItem" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories">
+        <span itemprop="name">Sintonia Loja Online - CKCTuning</span>
+      </a>
+      <meta itemprop="position" content="1">
+      
+    </span>
+  
+
+  
+    <span itemscope="" itemprop="itemListElement" itemtype="http://schema.org/ListItem">
+      <a itemprop="item" class="BreadcrumbItem" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ASIENTOS">
+        <span itemprop="name">ASSENTOS</span>
+      </a>
+      <meta itemprop="position" content="2">
+      
+    </span>
+  
+
+  
+
+
+
+
+
+  
+<a class="BreadcrumbItem" href="https://www.ckctuning.com/Assentos-de-carro-assentos-Recaro-Assentos-Assentos-Sparco-BC/Assentos-Recaro-Linha">Linha Recaro</a>
+    <link itemprop="item" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Products/REC15190">
+    <span itemprop="name" class="BreadcrumbLastItem">RECARO (FIA) POLE POSITION - VELOUR VERMELHO PILOTO&amp;COPILOTO</span>
+    <meta itemprop="position" content="5">
+  </span>
+</h3>
+<div class="AlignRight"></div>
+<hr class="Separator">
+
+
+<div itemscope="" itemtype="http://schema.org/Product" itemprop="mainEntity">
+
+
+
+  
+    
+  
+
+
+  
+
+
+
+  
+  
+    
+    
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+<div class="ProductDetails ImgLeft">
+    <div class="InfoArea New">
+            
+        
+        <h1 itemprop="name">RECARO (FIA) POLE POSITION - VELOUR VERMELHO PILOTO&amp;COPILOTO</h1>
+
+        <meta itemprop="itemCondition" content="http://schema.org/NewCondition">
+<meta itemprop="sku" content="REC15190">
+<meta itemprop="manufacturer" content="RECARO">
+<meta itemprop="brand" content="RECARO">
+<meta itemprop="category" content="RACING">
+
+
+      
+
+      
+        <span class="ProductNo DisplayBlock SmallTopMargin">Código do produto: REC15190</span>
+      
+      
+
+  
+  
+    <div class="ProductRating">
+      
+        
+          
+        
+        
+
+        
+          
+        
+        
+          
+            
+              
+
+              
+                
+                  
+                  
+                
+              
+            
+
+            
+               <form name="RateProduct" method="post" action="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Products/REC15190&amp;ViewAction=ViewProductRating&amp;RatingVisible=1&amp;ClassicView=1">
+               <input type="hidden" name="SessionID" value="">
+                <a href="javascript:document.RateProduct.submit()" rel="nofollow" class="LinkIcon LinkProductRating InPrintViewNotVisible WriteProductRating productRatingStars">
+                                  
+                  Seja o primeiro a avaliar este produto
+                
+
+                </a>
+              </form>
+            
+
+          
+        
+      
+    </div>
+  
+
+
+
+
+    
+      
+<p>
+    
+        <i class="Icon ProductOnStockIcon"></i>
+    
+    Disponível
+</p>
+
+
+
+
+
+      
+      
+    
+
+
+    
+      
+
+      
+      
+      
+      <div class="PriceContainer" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+        <meta itemprop="url" content="https://www.ckctuning.com/RECARO-FIA-POLE-POSITION-VELOUR-VERMELHO-PILOTOCOPILOTO">
+        <meta itemprop="priceValidUntil" content="">
+        
+  <meta itemprop="availability" content="http://schema.org/InStock">
+
+      
+
+      
+        <div class="Price">
+        
+          
+
+  
+  
+    
+    
+      
+    
+    
+    
+    <span class="price-value"><span itemprop="price" content="714.00">714,00</span> <span itemprop="priceCurrency" content="EUR">€</span>
+    
+      
+    
+    
+    
+    </span>
+      
+      
+  
+  
+
+
+        
+        </div>
+        
+        
+        <div class="TaxAndShippingInfo">
+          
+            <div>IVA incluído</div>
+
+<div><strong><a data-link-type="tree" data-type="linkpicker" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/Envio" target="_blank">Entrega</a></strong> a partir <strong style="font-size: 14px; font-family: sans-serif; color: rgb(66, 138, 18); line-height: 15.6000003814697px;"><span style="font-size: 12px;">10,95€..</span></strong></div>
+          
+        </div>
+        
+      
+        
+        <div class="Weight TaxAndShippingInfo" style="font-size: 9px; line-height: 16px;">
+          Peso de envio: 0,1 kg
+        </div>
+        
+        
+        
+          
+          
+        
+        
+      
+      
+      
+      
+      
+
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    require(['jquery', 'ep', 'ep/ui/tooltip', 'ep/fn/busy', '$ready!'], function($){
+      var form = $('#SelectVariationForm'),
+        selects = form.find('select'),
+        changeVariation = function(){
+          ep('.ContentArea').busy('show');
+          form.trigger('submit');
+        };
+
+      var basketButton = $('button[data-productID="58422823"]'),
+          tooltip,
+          selectedParams =  undefined ,
+
+          checkSelection = function(){
+            var noSelection = false;
+            selects.each(function(){
+              if($(this).val() === ""){
+                noSelection = true;
+                return false;
+              }
+            });
+            return noSelection;
+          };
+
+      if(selectedParams){
+        $.each(selectedParams, function (index, value) {
+          var select = form.find('select[data-attributeid="'+ value.AttributeID +'"]');
+          select.val(value.AttributeValueID);
+        });
+      }
+
+      selects.on('change', function(event){
+        if(checkSelection()){
+          var hiddenAction = $('#SelectVariationForm input[name="ChangeAction"]');
+
+          hiddenAction.attr({
+            name: 'ViewAction',
+            value: 'ViewProduct'
+          });
+        }
+        changeVariation();
+      });
+
+      if(checkSelection()){
+        if(!tooltip){
+          tooltip = ep('<div class="arrow-box">Por\u0020favor\u002C\u0020selecione\u0020uma\u0020versão\u002E</div>').appendTo('body').uiTooltip({
+            addClass: 'DisplayInlineBlock',
+            context : basketButton,
+            // calculate offset deppending on the button height
+            offsetAdjust: [0, -8 + (basketButton.outerHeight()-26)/2],
+            orientation:  'left',
+            interactive : true
+          });
+          basketButton
+            .addClass('cursor-not-allowed')
+            .on('click', function(event){
+              selects.each(function(){
+                if($(this).val() === ""){
+                  $(this).addClass('ui-invalid');
+                }
+              });
+              
+              event.preventDefault();
+            });
+        }
+      }
+
+      
+      
+      var UnavailableVariations = {};
+      $.each(UnavailableVariations, function (UnavailableVariationID) {
+        form.find('[value="' + UnavailableVariationID + '"]').addClass('variation-unavailable');
+      });
+      
+
+      
+      var InvisibleVariations = {};
+      $.each(InvisibleVariations, function (InvisibleVariationID) {
+        form.find('[value="' + InvisibleVariationID + '"]').remove();
+      });
+      
+    });
+  </script>
+
+
+
+
+
+
+
+  
+
+  
+  
+    
+  
+
+  
+
+  
+
+    
+    
+    
+
+    
+      
+    
+
+    <br class="ClearBoth">
+                                                             
+       <form id="basketForm_standalone" method="post" action="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?" class="  ShowInlineElement AddToBasketForm ep-js" data-js="">
+        <div class="ShowInlineElement">
+        <input type="hidden" name="LastProductObjectID" value="58422823">
+        <input type="hidden" name="ChangeObjectID" value="58422823">
+        <input type="hidden" name="ChangeAction" value="AddToBasket">
+      
+       
+  <input type="hidden" name="ObjectPath" value="/Shops/17634835/Products/REC15190">
+  <input type="hidden" name="ViewObjectID" value="58422823">
+  <input type="hidden" name="ViewAction" value="View">
+  
+  
+
+
+      
+       
+      
+                                                           
+        
+        
+
+        
+
+          
+          
+
+            
+              
+                <div class="SmallBottomMargin">
+                  <input type="text" name="Quantity" class="Quantity  epWidth50  epWidth-4 ep-js ep-uiInput ep-uiInput-text ep-uiValidate ep-uiSpinner ep-uiSpinner-base" data-js="" value="1"><span tabindex="0" class="ep-uiInput ep-uiInput-button ep-uiSpinner-stepper ep-uiSpinner-stepper-base"><a href="javascript:;" class="ep-uiSpinner-stepUp ep-uiSpinner-stepUp-base" tabindex="-1">+</a><a href="javascript:;" class="ep-uiSpinner-stepDown ep-uiSpinner-stepDown-base" tabindex="-1">–</a></span>
+                  <noscript></noscript>
+                  <button name="AddToBasket" type="submit" class="ep-js  AddToBasketButton ep-uiInput-big ep-uiInput ep-uiInput-button" data-js="" data-productid="58422823">
+                    <span class="ep-sprite ep-sprite-s BasketIcon"></span>
+                    Adicionar ao carrinho
+                    
+                  </button>
+                  <br class="ClearBoth">
+                </div>
+              
+            
+
+
+          
+
+
+          <div class="ClearBoth MinimizeHeight"></div>
+                                                        
+        
+      
+      </div>
+    </form>
+    
+    
+  
+  
+
+
+
+
+
+
+      </div>
+      <ul class="AdditionalLinks New">
+  
+    <li>
+      <form name="LinkAddShoppingList" class="ep-js " data-js="" method="post" action="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ViewAction=ViewRegistrationRedirect">
+        <input type="hidden" name="ObjectPath" value="/Shops/17634835">
+        <input type="hidden" name="RefObjectID" value="58422823">
+        <input type="hidden" name="LastViewAction" value="ViewAddToShoppingList">
+      
+        <input type="submit" class="Link LinkIcon LinkAddShoppingList" value="Adicionar à minha lista">
+      </form>
+    </li>
+  
+
+  <li>
+    <a rel="nofollow" class="ep-js LinkIcon LinkCompareProduct InPrintViewNotVisible" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ViewObjectPath=/Shops/17634835&amp;ViewAction=ViewProductComparison" data-js="">Comparar</a>
+  </li>
+
+<li><a class="LinkIcon LinkProductRecommendation InPrintViewNotVisible " rel="nofollow" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835&amp;ViewAction=ViewRegistrationRedirect&amp;Path=/Shops/17634835/Products/REC15190">Recomendar</a></li>
+
+
+
+
+
+
+<li><a class="LinkIcon LinkProductInquiry InPrintViewNotVisible" rel="nofollow" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Products/REC15190&amp;ViewAction=ViewInquiry">Colocar questão</a></li>
+
+
+</ul>
+      
+
+</div>
+
+
+
+
+
+
+  
+    <div class="ProductImage">
+      
+
+  <div id="ProductImages" class="noscript">
+    <ul>
+  
+      
+      
+        
+          
+        
+        
+        
+      
+      <li>
+        <a href="./rec2_files/66153.jpg">
+          <img itemprop="image" alt="RECARO (FIA) POLE POSITION - VELOUR VERMELHO PILOTO&amp;COPILOTO" src="./rec2_files/66153.jpg" data-src-xs="http://occsport.com/img/p/6/6/1/5/3/66153.jpg" data-src-s="http://occsport.com/img/p/6/6/1/5/3/66153.jpg" data-src-ms="http://occsport.com/img/p/6/6/1/5/3/66153.jpg" data-src-m="http://occsport.com/img/p/6/6/1/5/3/66153.jpg" data-src-ml="http://occsport.com/img/p/6/6/1/5/3/66153.jpg" data-src-l="http://occsport.com/img/p/6/6/1/5/3/66153.jpg">
+        </a>
+      </li>
+      
+      
+        
+          
+        
+        
+        
+      
+      <li>
+        <a href="./rec2_files/66154.jpg">
+          <img itemprop="image" alt="RECARO (FIA) POLE POSITION - VELOUR VERMELHO PILOTO&amp;COPILOTO" src="./rec2_files/66154.jpg" data-src-xs="http://occsport.com/img/p/6/6/1/5/4/66154.jpg" data-src-s="http://occsport.com/img/p/6/6/1/5/4/66154.jpg" data-src-ms="http://occsport.com/img/p/6/6/1/5/4/66154.jpg" data-src-m="http://occsport.com/img/p/6/6/1/5/4/66154.jpg" data-src-ml="http://occsport.com/img/p/6/6/1/5/4/66154.jpg" data-src-l="http://occsport.com/img/p/6/6/1/5/4/66154.jpg">
+        </a>
+      </li>
+      
+  
+  
+    </ul>
+  </div>
+  <div id="ProductSlideshow" style="position: relative; width: 100%; max-width: 500px; height: 500px; max-height: 500px;"><div class="ep-uiSlides ep-uiSlides-ctrl-auto" style="cursor: pointer;"><div class="ep-uiSlides-box" title="Expandir"><div style="display: none;"></div><div style=""><img alt="RECARO (FIA) POLE POSITION - VELOUR VERMELHO PILOTO&amp;COPILOTO" src="./rec2_files/66153.jpg"></div></div><div class="ep-uiSlides-desc" style=""><div class="ep-uiSlides-caption" style="display: none;">RECARO (FIA) POLE POSITION - VELOUR VERMELHO PILOTO&amp;COPILOTO</div><div class="ep-uiSlides-count" style="display: none;">1/2</div></div><div class="ep-uiSlides-ctrl ep-uiSlides-ctrlPrev ui-hidden"><a href="javascript:void(0);">&lt;</a></div><div class="ep-uiSlides-ctrl ep-uiSlides-ctrlNext"><a href="javascript:void(0);">&gt;</a></div></div></div>
+  <div id="ProductThumbs" style="width:100%;"><div class="ep-uiThumbbox ep-uiThumbbox-list"><ul><li data-item="0" class="active" style="width: 50px; height: 50px; line-height: 50px;"><img src="./rec2_files/66153.jpg" alt="RECARO (FIA) POLE POSITION - VELOUR VERMELHO PILOTO&amp;COPILOTO"></li><li data-item="1" style="width: 50px; height: 50px; line-height: 50px;"><img src="./rec2_files/66154.jpg" alt="RECARO (FIA) POLE POSITION - VELOUR VERMELHO PILOTO&amp;COPILOTO"></li></ul></div></div>
+  <script type="text/javascript">
+    jQuery.ready({
+        plugin: [ 'ep.ui.core', 'jQuery.event.special.dom',  'ep.ui.slides' , 'ep.ui.thumbbox', 'ep.ui.lightbox'],
+        DOM:    true
+    }, function($){
+      var slideShow = ep('#ProductSlideshow');
+
+    
+      var
+        box = slideShow.closest('.ProductImage'),
+        resize = function(){
+          slideShow.css({
+            "max-height": ( slideShow.width()) + "px",
+             "height": slideShow.width() + "px" 
+          });
+        };
+      box.on("resize", resize);
+      resize();
+    
+
+    
+      slideShow
+        .uiSlides({
+          images        : '#ProductImages img',
+          caption       : false,
+          count         : false,
+          controls      : 'auto',
+          delay         : 0 * 1000,
+          autoplay      : 0 == 0 ? false : true,
+          action        : "lightbox"
+        });
+    
+      slideShow
+        .uiLightbox({
+          images        : '#ProductImages img',
+          caption       : false,
+          count         : false,
+          controls      : 'visible',
+          thumbs        :  true 
+        });
+    
+      ep('#ProductThumbs')
+        .uiThumbbox({
+          images        : '#ProductImages img',
+          view          : 'list',
+          width         : 50,
+          height        : 50
+       });
+    
+    });
+  </script>
+
+
+
+    </div>
+  
+    <div class="SocialMedia">
+  
+
+
+
+
+
+  
+
+  
+     
+  
+
+  
+    
+  
+<div class="ep-gadget DisplayInlineBlock ep-2-click-button-facebook ep-2-click-button SocialWeb" data-ep-gadget="{&quot;alias&quot;:&quot;facebook&quot;, &quot;cartridge&quot;:&quot;externalcontent&quot;, &quot;options&quot;:{&quot;width&quot;:230, &quot;layout&quot;:&quot;standard&quot;, &quot;showFaces&quot;:true, &quot;action&quot;:&quot;like&quot;, &quot;colorscheme&quot;:&quot;light&quot;}}" title="Ative o botão com um único clique. Só depois poderá partilhar a página nas redes sociais. Após a ativação, os dados são enviados para terceiros."><span></span></div>
+
+
+  <div class="ep-gadget DisplayInlineBlock ep-2-click-button-twitter ep-2-click-button SocialWeb" data-ep-gadget="{&quot;alias&quot;:&quot;twitter&quot;, &quot;cartridge&quot;:&quot;externalcontent&quot;, &quot;options&quot;:{&quot;type&quot;:&quot;share&quot;, &quot;count&quot;:&quot;horizontal&quot;,&quot;text&quot;:&quot;RECARO (FIA) POLE POSITION - VELOUR VERMELHO PILOTO&amp;amp;COPILOTO&quot;}}" title="Ative o botão com um único clique. Só depois poderá partilhar a página nas redes sociais. Após a ativação, os dados são enviados para terceiros."><span></span></div>
+
+  <div class="ep-gadget DisplayInlineBlock ep-2-click-button-otherbuttons ep-2-click-button SocialWeb" data-ep-gadget="{&quot;alias&quot;:&quot;otherbuttons&quot;, &quot;cartridge&quot;:&quot;externalcontent&quot;, &quot;options&quot; : {&quot;services&quot; :  [&quot;digg&quot;, &quot;delicious&quot;, &quot;stumbleupon&quot;]}}" title="Ative o botão com um único clique. Só depois poderá partilhar a página nas redes sociais. Após a ativação, os dados são enviados para terceiros."><span></span></div>
+  <br class="ClearBoth">
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="ProductInfoTabs" class="ui-tabs ui-widget ui-widget-content ui-corner-all epProductInfoTabs ep-js" data-js="">
+  <ul class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all" role="tablist">
+  
+  
+    <li class="ui-state-default ui-corner-top ui-tabs-active ui-state-active ui-tabs-tab ui-tab" role="tab" tabindex="0" aria-controls="tab-product-description" aria-labelledby="ui-id-1" aria-selected="true" aria-expanded="true">
+      <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Products/REC15190#tab-product-description" title="" role="presentation" tabindex="-1" class="ui-tabs-anchor" id="ui-id-1">Descrição</a>
+    </li>
+    
+  
+  </ul>
+  
+  
+  <div class="ui-tabs-panel ui-widget-content ui-corner-bottom" id="tab-product-description" aria-labelledby="ui-id-1" role="tabpanel" aria-hidden="false">
+        
+        <div class="description" itemprop="description">
+          
+            
+              
+            
+            
+            
+          
+          
+            <li>Estrutura para iniciantes.
+</li><li>plástico reforçado de fibra de vidro de assento
+</li><li>(GRP).
+</li><li>A almofada cabeça pronunciada e proporcionar maior
+</li><li>controle do veículo em qualquer situação.
+</li><li>Estrutura de fibra de vidro reforçada de plástico
+</li><li>(GRP).
+</li><li>cabeça integrado para proteção adicional
+</li><li>cabeça.
+</li><li>Apoiar os ombros especialmente concebidos
+</li><li>para apoio lateral ideal.
+</li><li>Almofada e cabeça bem definida para um maior controlo
+</li><li>o veículo em todas as situações.
+</li><li>almofada lombar para sujeito individual
+</li><li>coluna vertebral.
+</li><li>Extras com custo adicional: com suportes laterais
+</li><li>aprovação da FIA, conjuntos duplos de correr, enchimentos
+</li><li>assento.
+</li><li>MODELO: (FIA) </li><li>Montagem: Pole Position - Velour vermelho </li><li>REFERÊNCIA: REC070.98.0193 </li><li>SIDE: condutor e passageiro
+          
+        </li></div>
+        
+        
+          
+
+   <h2>Informação adicional do produto</h2>
+    <div>
+   <table class="UserAttributes">
+  
+  
+    
+    <tbody><tr>
+      <td class="AttributeLabel">Escolha 1</td>
+      <td class="AttributeContent">
+      <div>
+        <ul class="BottomSmallMargin TopSmallMargin LeftPadding LeftMargin">
+        <li>Red</li>
+        </ul>
+      </div>
+      </td>
+    </tr>
+    
+  
+  
+  
+    
+    <tr>
+      <td class="AttributeLabel">Escolha 2</td>
+      <td class="AttributeContent">
+      <div>
+        <ul class="BottomSmallMargin TopSmallMargin LeftPadding LeftMargin">
+        <li>Pole Position</li>
+        </ul>
+      </div>
+      </td>
+    </tr>
+    
+  
+  
+  
+    
+    <tr>
+      <td class="AttributeLabel">Escolha 3</td>
+      <td class="AttributeContent">
+      <div>
+        <ul class="BottomSmallMargin TopSmallMargin LeftPadding LeftMargin">
+        <li>Copilot</li><li>Piloto</li>
+        </ul>
+      </div>
+      </td>
+    </tr>
+    
+  
+  
+  </tbody></table>
+  </div>
+  <hr class="Separator">
+
+
+
+        
+      </div>
+    
+  
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <span class="AlsoBrowseThisCat">
+    
+      Procurar nesta categoria:
+      <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ASIENTOS/%22recaro%20line%22/RACING">RACING</a>
+    
+  </span>
+  <hr class="Separator">
+  
+</div>
+  
+
+
+
+
+        </div><!-- close .ContentAreaWrapper -->
+      </div><!-- close .ContentAreaInner -->
+    </div><!-- close .ContentArea -->
+  </div><!-- close .Middle -->
+  <div class="FooterContainer">
+  
+    <div class="NavBarBottom HorizontalNavBar">
+      <div class="PropertyContainer">
+        
+
+ 
+  
+  
+  <div class="SizeContainer">
+<div class=" NavBarElement0" id="NavElement_77757597">
+  
+  <div class="NavigationText ">
+  <table style="border: 1px solid #CCC; height:100px" width="100%">
+	<tbody>
+		<tr align="left">
+			<td style="padding-left:15px"><a data-link-type="tree" data-type="linkpicker" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/BLOG"><img alt="blog" src="./rec2_files/footer_icon1.png" style="width: 45px; height: 69px;" title="blog"></a></td>
+			<td style="border-right: 1px dotted #CCC">
+			<h3><a data-link-type="tree" data-type="linkpicker" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/BLOG">Nosso blog</a></h3>
+			<a data-link-type="tree" data-type="linkpicker" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/BLOG">Siga as nossas publicações</a></td>
+			<td style="padding-left:25px;"><a data-link-type="tree" data-type="linkpicker" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/SpecialOffers"><img alt="promociones" src="./rec2_files/footer_icon2.png" style="width: 56px; height: 70px;" title="promociones"></a></td>
+			<td style="border-right: 1px dotted #CCC">
+			<h3><a data-link-type="tree" data-type="linkpicker" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/SpecialOffers">Promoções</a></h3>
+			<a data-link-type="tree" data-type="linkpicker" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/SpecialOffers">Pneus e rodas</a></td>
+			<td style="padding-left:25px;"><a data-link-type="tree" data-type="linkpicker" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/Envio"><img alt="envios gratis" src="./rec2_files/footer_icon3.png" style="width: 48px; height: 69px;" title="envios gratis"></a></td>
+			<td style="border-right: 1px dotted #CCC">
+			<h3><a data-link-type="tree" data-type="linkpicker" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/Envio">Frete grátis</a></h3>
+			<a data-link-type="tree" data-type="linkpicker" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/Envio">Veja condições</a></td>
+			<td style="padding-left:25px;"><a data-link-type="tree" data-type="linkpicker" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/GALERIA"><img alt="galeria clientes" src="./rec2_files/footer_icon4.png" style="width: 56px; height: 69px;" title="galeria clientes"></a></td>
+			<td>
+			<h3><a data-link-type="tree" data-type="linkpicker" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/GALERIA">Galeria do cliente</a></h3>
+			<a data-link-type="tree" data-type="linkpicker" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/GALERIA">Assista agora ...</a></td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<table width="100%">
+	<tbody>
+		<tr>
+			<td>Pagamentos:</td>
+			<td><a data-link-type="tree" data-type="linkpicker" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/Pago"><img alt="metodos de pagos" src="./rec2_files/footer_pago1.jpg" style="width: 339px; height: 34px;" title="metodos de pagos"></a></td>
+			<td style="padding-left:25px;">Não aceitamos:</td>
+			<td><a data-link-type="tree" data-type="linkpicker" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/Pago"><img alt="no contrarembolso" src="./rec2_files/footer_pago2.jpg" style="width: 91px; height: 37px;" title="no contrarembolso"></a></td>
+			<td style="padding-left:25px;">Embarques:</td>
+			<td><a data-link-type="tree" data-type="linkpicker" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/Envio"><img alt="envios" src="./rec2_files/footer_pago3.jpg" style="width: 265px; height: 42px;" title="envios"></a></td>
+		</tr>
+	</tbody>
+</table>
+  </div>
+  
+</div>
+</div>
+  
+  
+
+
+      </div>
+    </div>
+  
+  
+    <div class="Footer HorizontalNavBar">
+      <div class="PropertyContainer">
+        
+
+ 
+  
+  
+  <div class="SizeContainer">
+<div class=" NavBarElement0" id="NavElement_77762409">
+  
+  <div class="NavigationText ">
+  <table width="1000px">
+	<tbody>
+		<tr align="left" style="height:50px;  font-size:22px; ">
+			<th>Categorias</th>
+			<th>Links úteis</th>
+			<th>Informação</th>
+			<th>Contato</th>
+		</tr>
+		<tr align="left">
+			<td><a data-link-type="tree" data-type="linkpicker" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/CARROCERIA">Jogos do corpo</a></td>
+			<td><a data-link-type="tree" data-type="linkpicker" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ContactForm">Contactar</a></td>
+			<td><a data-link-type="tree" data-type="linkpicker" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/TermsAndConditions">TERMOS E CONDIÇÕES</a></td>
+			<td>shop@ckctuning.com</td>
+		</tr>
+		<tr align="left">
+			<td><a data-link-type="tree" data-type="linkpicker" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ASIENTOS">Assentos</a></td>
+			<td><a data-link-type="tree" data-type="linkpicker" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/BLOG">Blog</a></td>
+			<td><a data-link-type="tree" data-type="linkpicker" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/Mapa_Web" style="font-family: Arial, Verdana, Helvetica;">Mapa do site</a></td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr align="left">
+			<td><a data-link-type="tree" data-type="linkpicker" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/FAROS">Iluminaçao</a></td>
+			<td><a data-link-type="tree" data-type="linkpicker" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/Pago">Pagamento</a></td>
+			<td><a data-link-type="tree" data-type="linkpicker" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/PrivacyPolicy">Privacidade</a></td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr align="left">
+			<td><a data-link-type="tree" data-type="linkpicker" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ACCESORIOS">Acessórios</a></td>
+			<td><a data-link-type="tree" data-type="linkpicker" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/Envio">Informações de entrega</a></td>
+			<td><a data-link-type="tree" data-type="linkpicker" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/Cancelacion">Cancelamento</a></td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr align="left">
+			<td><a data-link-type="tree" data-type="linkpicker" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/MANTENIMIENTO">Manutençao</a></td>
+			<td>&nbsp;</td>
+			<td><a data-link-type="tree" data-type="linkpicker" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/CustomerInformation">Devoluções</a></td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr align="left">
+			<td><a data-link-type="tree" data-type="linkpicker" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/RENDIMIENTO">Desempenho</a></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr align="left">
+			<td><a data-link-type="tree" data-type="linkpicker" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/ROPA-RACING">Roupas</a></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td><span style="font-family: Arial, Verdana, Helvetica; font-size: 14px;">&nbsp; &nbsp;</span><span style="font-family: Arial, Verdana, Helvetica; font-size: 14px;">&nbsp; &nbsp;</span></td>
+		</tr>
+		<tr align="left">
+			<td><a data-link-type="tree" data-type="linkpicker" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/AUDIO-COCHE">Car Audio</a></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="font-family: &#39;Teko&#39;, sans-serif !important; font-size:20px; font-weight: bold; ">&nbsp;</td>
+		</tr>
+		<tr align="left">
+			<td><a data-link-type="tree" data-type="linkpicker" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/LLANTAS1">Rodas e pneus</a></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr align="left">
+			<td><a data-link-type="tree" data-type="linkpicker" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/SpecialOffers">Promoçoes</a></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr align="left">
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+<table style="font-size: 14px; font-family: Arial, Verdana, Helvetica;" width="1000px">
+	<tbody style="font-size: 14px;">
+		<tr align="left" style="font-size: 14px;">
+			<td style="font-size: 14px;"><a data-link-type="tree" data-type="linkpicker" href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=/Shops/17634835/Categories/Mapa_Web">Mapa do site</a></td>
+		</tr>
+	</tbody>
+</table>
+  </div>
+  
+</div>
+</div>
+  
+  
+
+
+      </div>
+    </div>
+  
+  </div>
+
+</div>
+
+  
+
+<script type="text/javascript">
+  
+
+  
+    require(['jquery', 'de_epages/design/ui/cookiemessage'], function ($) {
+        $('body').designUiCookiemessage({
+            message: 'Este\u0020Web\u0020site\u0020utiliza\u0020cookies\u002E\u0020Ao\u0020utilizar\u0020esta\u0020página\u0020está\u0020a\u0020concordar\u0020com\u0020o\u0020uso\u0020de\u0020cookies\u002E\u0020Pode\u0020encontrar\u0020informações\u0020sobre\u0020o\u0020nosso\u0020uso\u0020de\u0020cookies\u0020\u0026lt\u003Ba\u0020href\u003D\u0026quot\u003B\u003FObjectPath\u003DCategories\u002FPrivacyPolicy\u0026quot\u003B\u0026gt\u003Baqui\u0026lt\u003B\u002Fa\u0026gt\u003B\u002E'
+          
+        });
+    });
+  
+</script>
+
+<script type="text/javascript">
+require(["jquery", "util/storage", "$ready!"], function ($, storage) {
+  // remove all selected products on logout
+  var $LogoutNodes = $('a[href*="ChangeAction=Logout"]');
+  
+  $LogoutNodes.each(function (event){
+    $(this).on('click', function (event){
+      storage.sessionStorage('Product::ProductComparison', null);
+    });
+  });
+});
+</script><script type="text/javascript">
+require(['jquery', '$ready!'], function ($) {
+
+	var createGadgets = function(){
+
+		// Constants.
+		var gNodeType = 'div',
+			gClassName = 'ep-gadget',
+			gDataName = gClassName,
+			gFolder = 'ui',
+			secondClickBtn = ['facebook', 'twitter', 'otherbuttons'],
+			$gNodes,
+			googleMapsAPIKey = false;
+
+		// Transform gadget imgs to divs
+		$('img.' + gClassName).each(function (i, elem) {
+			var $elem = $(elem),
+				tmplElement = $('<div/>'),
+				replaceElement = $elem.parent('p');
+
+			// set/remove gadget-, class- and style-values/options
+			tmplElement
+				.data(gDataName, $elem.data(gDataName))
+				.attr({
+					'class': ($elem.attr('class') ? $elem.attr('class') : ''),
+					'style': ($elem.attr('style') ? $elem.attr('style').replace(/\s*?height:.*?;|\s*?background.*?:.*?;|\s*?display:.*?;|\s*?margin-bottom:.*?;|\s*?max-width:.*?;|\s*?width:.*?px;/g, '') : '')
+				});
+
+			// if parent paragraph element only contains the gadget-element => replace paragraph and gadget-element by gadget-div
+			if (replaceElement.length && replaceElement.children().length === 1 && replaceElement.text().replace(/\s|\n|\r/g, '') === '') {
+				replaceElement.replaceWith(tmplElement);
+			// if parent paragraph element contains more content => replace only gadget-element by gadget-div
+			} else {
+				$elem.replaceWith(tmplElement);
+			}
+		});
+
+		// Build gadgets in the gadget div
+		$gNodes = $(gNodeType + '.' + gClassName);
+
+		if ($gNodes.length) {
+			// Go go gadgets.
+			$gNodes.each(function () {
+				var $this = $(this),
+					data = $this.data(gDataName),
+					elem,
+					classButton = 'ep-2-click-button SocialWeb',
+					classButtonType;
+
+				data.options.googleMapsAPIKey = false;
+				if (data.options.type && data.options.type === "google") {
+				 	data.options.googleMapsAPIKey = googleMapsAPIKey;
+				}
+
+				// if no second click button is needed
+				if (secondClickBtn.indexOf(data.alias) === -1) {
+					require([['de_epages', data.cartridge, gFolder, data.alias].join('/')], function ($) {
+						$this[data.cartridge + gFolder.charAt(0).toUpperCase() + gFolder.slice(1) + data.alias.charAt(0).toUpperCase() + data.alias.slice(1)](data.options);
+						
+					});
+				} else {
+					// type of button (facebook, twitter ..)
+					classButtonType = 'ep-2-click-button-' + data.alias;
+					// add classes
+					$this.addClass(classButtonType + ' ' + classButton);
+					// add tooltip
+		 			$this.attr("title", "Ative\u0020o\u0020botão\u0020com\u0020um\u0020único\u0020clique\u002E\u0020Só\u0020depois\u0020poderá\u0020partilhar\u0020a\u0020página\u0020nas\u0020redes\u0020sociais\u002E\u0020Após\u0020a\u0020ativação\u002C\u0020os\u0020dados\u0020são\u0020enviados\u0020para\u0020terceiros\u002E");
+
+					// add span (contains the switch)
+					$this.html('<span></span>');
+
+					// add click-handler for 2-click-button
+					$this.one('click', function (evt) {
+						evt.preventDefault();
+						evt.stopPropagation();
+
+						var _this = $(this),
+							data = $this.data(gDataName),
+							elem = $('<div />');
+
+						elem[0].className = this.className;
+						elem.removeClass(classButtonType + ' ' + classButton);
+
+						require([['de_epages', data.cartridge, gFolder, data.alias].join('/')], function ($) {
+							// instantiate needed widget (facebook, twitter ...)
+							elem[data.cartridge + gFolder.charAt(0).toUpperCase() + gFolder.slice(1) + data.alias.charAt(0).toUpperCase() + data.alias.slice(1)](data.options);
+
+							
+
+							// replace 2-click-button with widget-element
+							_this.replaceWith(elem);
+						});
+					});
+				}
+
+			});
+		}
+	};
+
+	createGadgets();
+	$('body').on('updatepreview', createGadgets);
+
+});
+</script>
+<script>
+require([
+	'jquery',
+	'de_epages/product/inc/energylabel',
+
+	'$ready!'
+], function ($, energylabel) {
+	var energylabels = $('.energylabel-arrow');
+
+	energylabel.init({items: energylabels});
+});
+</script>
+
+
+  <!-- BEGIN etracker Tracklet 3.0 async -->
+<script type="text/javascript">
+(function () {
+  var et_init = function () {
+		var et = document.createElement('script');
+		et.src = '//code.etracker.com/a.js?et=yQx5dV';
+		var head = document.getElementsByTagName('head')[0];
+		head.insertBefore(et, head.firstChild);
+	};
+	window.addEventListener
+  	? window.addEventListener('load', et_init, false)
+    : window.attachEvent('onload', et_init);
+})();
+</script>
+<!-- etracker Tracklet END -->
+
+<!-- BEGIN etracker Tracklet 3.0 async Parameter -->
+<script type="text/javascript">
+function et_params() {
+    // etracker PARAMETER 3.0
+    et_pagename     = "\u005BASIENTOS\u005DREC15190";
+    et_areas        = "Categories\u002FASIENTOS\u002Frecaro\u002520line\u002FRACING";
+    et_ilevel       = 1;
+    et_url          = "http%3A//www.ckctuning.com/epages/17634835.sf/%3FObjectPath%3D/Shops/17634835/Products/REC15190";
+    et_tag          = "";
+    // etracker PARAMETER END
+    // etracker TARGET PARAMETER 3.0
+    
+    // etracker TARGET PARAMETER END
+    // etracker CAMPAIGN PARAMETER 3.0
+    
+    // etracker CAMPAIGN PARAMETER END
+}
+</script>
+<!-- etracker Tracklet END Parameter -->
+
+  <!-- etracker CODE NOSCRIPT 3.0 -->
+<noscript>
+
+<p><a href='https://www.etracker.de/app?et=yQx5dV'>
+<img style='border:0px;' alt='' src='https://www.etracker.de/cnt.php?et=yQx5dV&amp;v=3.0&amp;java=n&amp;et_easy=0&amp;et_pagename=[ASIENTOS]REC15190&amp;et_areas=Categories%2FASIENTOS%2Frecaro%2520line%2FRACING&amp;et_ilevel=1&amp;et_target=,,,0&amp;et_lpage=&amp;et_trig=&amp;et_se=0&amp;et_cust=0&amp;et_basket=&amp;et_url=&amp;et_tag=&amp;et_organisation=&amp;et_demographic=' /></a></p>
+
+</noscript>
+<!-- etracker CODE NOSCRIPT END-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="message-bar message-cookies"><div class="message-bar-inner"><p class="MarginBottom">Este Web site utiliza cookies. Ao utilizar esta página está a concordar com o uso de cookies. Pode encontrar informações sobre o nosso uso de cookies <a href="https://www.ckctuning.com/epages/17634835.sf/pt_PT/?ObjectPath=Categories/PrivacyPolicy">aqui</a>.</p><p><button class="message-bar-button">OK</button></p></div></div><ul style="display:none;" id="energylabel-imagelist"></ul><div><a href="http://www.etracker.de/" target="_blank"><img style="border:0px;" alt="" src="./rec2_files/cnt.php"></a></div></body></html>

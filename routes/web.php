@@ -71,12 +71,17 @@ Route::post('/hondas', 'App\Http\Controllers\HondasController@store')->name('hon
 //YELLOW SPEED RACING
 Route::get('/yellows', 'App\Http\Controllers\YellowsController@index')->name('yellows.index');
 Route::get('/yellows/{id}/show', 'App\Http\Controllers\YellowsController@show')->name('yellows.show');
-
+//CREATE
+Route::get('/yellows/create', 'App\Http\Controllers\YellowsController@create')->name('yellows.create');
+Route::post('/yellows', 'App\Http\Controllers\YellowsController@store')->name('yellows.store');
 
 
 //AP
 Route::get('/aps', 'App\Http\Controllers\ApsController@index')->name('aps.index');
 Route::get('/aps/{id}/show', 'App\Http\Controllers\ApsController@show')->name('aps.show');
+//CREATE
+Route::get('/aps/create', 'App\Http\Controllers\ApsController@create')->name('aps.create');
+Route::post('/aps', 'App\Http\Controllers\ApsController@store')->name('aps.store');
 
 
 
@@ -107,3 +112,12 @@ Route::get('/bomps/{id}/show', 'App\Http\Controllers\BompsController@show')->nam
 //Create
 Route::get('/bomps/create', 'App\Http\Controllers\BompsController@create')->name('bomps.create');
 Route::post('/bomps', 'App\Http\Controllers\BompsController@store')->name('bomps.store');
+
+
+
+//Brecaros Bancos RECARO
+Route::get('/brecaros', 'App\Http\Controllers\BrecarosController@index')->name('brecaros.index');
+Route::get('/brecaros/{id}/show', 'App\Http\Controllers\BrecarosController@show')->name('brecaros.show');
+//Create
+Route::get('/brecaros/create', 'App\Http\Controllers\BrecarosController@create')->name('brecaros.create');
+Route::post('/brecaros', 'App\Http\Controllers\BrecarosController@store')->name('brecaros.store');

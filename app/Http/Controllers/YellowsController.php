@@ -8,16 +8,16 @@ use App\Models\Yellow;
 class YellowsController extends Controller
 {
  public function index(){
-   	$yellows = Yellow::all();
-   	return view('yellows.index', ['yellows'=>$yellows
+       $yellow = Yellow::all();
+       return view('yellows.index', ['yellows'=>$yellow
    ]);
 
    }
     public function show (Request $request){
-    	$idYellow=$request->id;
-    	$yellow=Yellow::where('id_yellow',$idYellow)->first();
+        $idYellow=$request->id;
+        $yellow=Yellow::where('id_yellow',$idYellow)->first();
 
-	return view('yellows.show',  ['yellow'=>$yellow 
+    return view('yellows.show',  ['yellow'=>$yellow
 ]);
 }
 public function create(){
@@ -25,7 +25,7 @@ public function create(){
 }
 public function store(request $request){
     $novoYellow=$request->validate ([
-        'suspensao'=>['required','min:2','max:100'],
+        'suspenssao'=>['required','min:2','max:100'],
         'preco'=>['nullable','min:2'],
         'observacoes'=>['nullable','min:2','max:200'],
         'info'=>['nullable','min:2','max:200'],
